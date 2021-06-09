@@ -1,0 +1,46 @@
+$ta-background-image-url: url('/assets/img/SlateTileNoBackground.png') !default;
+
+$dark-gray: #3e3e40;
+$mid-gray: #999999;
+$slate: #3F526F;
+$white: #FFF;
+$gray: #EEE;
+$blurple: #5461C8;
+$dark-slate: #2c3c55;
+$black: #000;
+$dark-pink: #BA0A87;
+
+$border-radius: 10px;
+
+$h1-font-family: Newzald;
+$h2-font-family: FoundersGroteskRegular;
+$h3-font-family: FoundersGroteskRegular;
+$h4-font-family: FoundersGroteskLight;
+$h5-font-family: FoundersGroteskLight;
+$base-font-family: FoundersGroteskRegular;
+
+$post-card-font-family: Newzald;
+
+$menu-header-font-family: FoundersGroteskRegular;
+$measure-category-font-family: FoundersGroteskLight;
+$measure-category-value-font-family: FoundersGroteskLight; 
+
+$background-colour: $slate;
+$background-header-colour: $dark-slate;
+$menu-header-colour: $slate;
+$header-colour: $blurple;
+$post-card-header-colour: $white;
+$dataset-border-colour: $gray;
+$measure-text-colour: $slate;
+$button-colour: $blurple;
+
+@function disintensify($color) {
+  @return saturate(darken($color, 10%), 100)
+}
+
+$h1-font-size: 4em;
+$h2-font-size: 3em;
+$h3-font-size: 2em;
+$h4-font-size: 1.5em;
+$h5-font-size: 1.4em;
+$h6-font-size: 1.25em;

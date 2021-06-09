@@ -1,0 +1,245 @@
+
+
+/* = = = = = = = = = = Old main css file = = = = = = = = = = */
+
+@import "variables";
+@import "syntax";
+@import "tools/normalize";
+
+
+/* = = = = = = = = = = Main Styles = = = = = = = = = = */
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+html {
+  line-height: 1.5;
+}
+
+/* = = = = = = = = = = Base Font Styles = = = = = = = = = = */
+
+body {
+  font-family: $base-font-family, sans-serif;
+  color: $slate;
+  margin: 0;
+  background-color: $white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-overflow-scrolling: touch;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1 {
+  font-family: $h1-font-family, serif;
+  color: $blurple;
+}
+
+h2, h3, h4{
+  margin-bottom: 1em;
+  line-height: 1em;
+}
+
+h2 {
+  font-family: $h2-font-family;
+  font-size: $h2-font-size;
+  color: $header-colour;
+}
+
+h3 {
+  font-family: $h3-font-family;
+  font-size: $h3-font-size;
+  color: $slate;
+}
+
+h4 {
+  font-family: $h4-font-family;
+  font-size: $h4-font-size;
+  color: $header-colour;
+}
+
+p {
+  color: $slate;
+  font-family: $h3-font-family;
+  font-size: $h6-font-size;
+  margin: 1em auto;
+}
+
+.centered-heading {
+  text-align: center;
+}
+
+/* = = = = = = = = = = Base elements = = = = = = = = = = */
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+a {
+  color: $header-colour;
+  &:visited {
+    color: $header-colour;
+  }
+  &:hover {
+    color: $header-colour;
+  }
+}
+
+blockquote {
+  border-left: 3px solid $dark-slate;
+  padding-left: 18px;
+  margin-left: 21px;
+  font-style: italic;
+  color: $dark-slate;
+}
+
+pre {
+  padding: 16px 32px;
+  overflow-x: auto;
+
+  code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  transition: transform .4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+}
+
+.flex-container.active {
+  transform: translate3d(300px, 0, 0);
+  &::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0,0,0,0.5);
+  }
+}
+
+.content {
+  flex-grow: 1;
+  padding: 1em 0 4em 0;
+}
+
+.wrapper {
+  width: 960px;
+  max-width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+::-moz-selection {
+  background: $dark-slate;
+  color: $white;
+}
+
+::selection {
+  background: $dark-slate;
+  color: $white;
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clearfix::before {
+  clear: both;
+}
+
+/* = = = = = = = = = = Styles that don't apply to nav/header/footer = = = = = = = = = = */
+main {
+  min-height: 80vh;
+  p {
+    max-width: 70ch;
+  }
+}
+
+/* = = = = = = = = = = Header Styles = = = = = = = = = = */
+@import "parts/header";
+
+/* = = = = = = = = = = Search Styles = = = = = = = = = = */
+@import "parts/search";
+
+/* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
+@import "parts/post-card";
+
+/* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
+@import "parts/pagination";
+
+
+/* = = = = = = = = = = Footer Styles = = = = = = = = = = */
+@import "parts/footer";
+
+/* = = = = = = = = = = Post-Page Styles = = = = = = = = = = */
+@import "parts/post-page";
+
+/* = = = = = = = = = = Author Box Styles = = = = = = = = = = */
+@import "parts/author-box";
+
+/* = = = = = = = = = = About Page Styles = = = = = = = = = = */
+@import "parts/about";
+
+/* = = = = = = = = = = Tags Styles = = = = = = = = = = */
+@import "parts/tags";
+
+/* = = = = = = = = = = Animate Styles = = = = = = = = = = */
+@import "parts/animate";
+
+/* = = = = = = = = = = Media = = = = = = = = = = */
+@import "media";
+
+
+/* = = = = = = = = = = End of old main css file = = = = = = = = = = */
+
+/* = = = = = = = = = = FYP = = = = = = = = = = */
+
+
+/* = = = = = = = = = = Colour options for bg colours, toggled via class when they are added to page = = = = = = = = = = */
+@import "parts/background-options";
+
+/* = = = = = = = = = = top nav on homepage = = = = = = = = = = */
+@import "parts/top-nav";
+
+/* = = = = = = = = = = 2 column section with photograph = = = = = = = = = = */
+@import "parts/2-col";
+
+/* = = = = = = = = = = Grid of buttons enabling navigation around site = = = = = = = = = = */
+@import "parts/categories";
+
+/* = = = = = = = = = = Article page, including data display = = = = = = = = = = */
+@import "parts/article-page";
+
+/* = = = = = = = = = = SVG stripe display = = = = = = = = = = */
+@import "parts/svg-stripe";
+
+/* = = = = = = = = = = warning banner = = = = = = = = = = */
+@import "parts/banner";
+
+/* = = = = = = = = = = FYP media queries = = = = = = = = = = */
+/* = = = = = = = = = = TODO: Consolidate into other media, middle categories broken = = = = = = = = = = */
+@import "fypmedia";
+
+/* = = = = = = = = = = home jumbo section. note: in-page is mostly 2-col = = = = = = = = = = */
+@import "parts/home-jumbo";
+
+

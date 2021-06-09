@@ -1,0 +1,31 @@
+.two-col-container {
+  display: flex;
+  padding-top: 1em;
+  .two-col-card {
+    flex: 1 1 50%;
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    padding: 5em 0em;
+  }
+  .two-col-card.heading-card {
+    padding: 0em;
+    justify-content: normal;
+  }
+  .two-col-card.text {
+    margin: 0 3em;
+    h1 {
+      margin: 0;
+      line-height: normal;  
+    }
+  }
+  .two-col-card.heading-card.text {
+    margin: 0 4em 0 0;
+  }
+  img {
+    object-fit: cover;
+  }
+}
+.two-col-container.reverse {
+  flex-direction: row-reverse;
+}
