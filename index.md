@@ -1,8 +1,8 @@
 ---
 layout: homepage
 data: patakarauranga
-title:  Page display title goes here
-subtitle: Page display subtitle goes here
+title: Pacific Data in Aotearoa
+subtitle: Explore data for and about Pacific people in Aotearoa
 isHome: true
 ---
 
