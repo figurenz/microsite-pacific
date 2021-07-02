@@ -1,8 +1,8 @@
 ---
 layout: content
 data: reports
-title:  Māori Data Reports
-subtitle: Read reports written by experts on Māori data
+title:  Pacific Data Reports
+subtitle: Read reports written by experts on Pacific data
 isHome: false
 ---
 

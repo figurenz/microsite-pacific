@@ -7,6 +7,8 @@ isHome: false
 
 # About {{site.title}}
 
+> NEEDS UPDATING
+
 {{site.title}} is a free tool to help Māori access data and develop data skills to support their mahi.
 
 You'll find a range of data about Māori and Māori issues, and resources to help you understand and use the data.
