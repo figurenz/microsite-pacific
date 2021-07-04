@@ -1,7 +1,7 @@
 ---
 layout: content
 data: culture
-title: Ahurea - Māori Culture
+title: Samoa
 isHome: true
 link: https://figure.nz/search/?query=kupenga&ref=mfnz
 ---
