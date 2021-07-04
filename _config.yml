@@ -1,7 +1,7 @@
 title: Pacific Data in Aotearoa
 subtitle: Explore data for and about Pacific people in Aotearoa
 description: Description of project for metadata in search and other sites.
-analytics: true
+analytics: false
 # analytics is a boolean value that determinees whether the woopra file is enabled.
 
 # collections are groups of pages/posts that can be displayed in blocks on the homepage and the sidebar menu.
