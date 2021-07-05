@@ -1,122 +1,100 @@
 ---
 layout: content
 data: reports
-title:  Pacific Data Reports
-subtitle: Read reports written by experts on Pacific data
+title:  Pacific Reports
+subtitle: Read reports written by experts on Pacific life in Aotearoa
 isHome: false
 ---
 
 # {{ page.title }}
 
-## Why is Māori data important?
+## Pacific Life in Aotearoa
 
-[Value of the Census for Maori 2019](https://www.stats.govt.nz/assets/Uploads/Reports/Value-of-the-census-for-Maori/Value-of-the-census-for-Maori.pdf)
-Stats NZ, 2019
+[Census 2018 Pacific Data](https://www.stats.govt.nz/tools/2018-census-ethnic-group-summaries/pacific-peoples)
+Stats NZ, 2018
+Summary of demographic data for Pacific people in Aotearoa.
 
-[Economy of Mana - Where to next?](http://www.journal.mai.ac.nz/journal/mai-journal-2018-volume-7-issue-1)
-Kiri Dell, Nimbus Staniland, Amber Nicholson - Mai Journal, 2018
+[Pacific Aotearoa - Lalanga Fou Report](https://www.mpp.govt.nz/publications/reports/)
+Ministry for Pacific Peoples, 2018
+The Pacific Aotearoa Lalanga Fou report is the start of a conversation to better understand Pacific people’s contribution to Aotearoa's economy, and how we define success, prosperity and well-being. It lays a strong foundation that we can build upon for generations to come.
 
-## Introduction to Māori Data Principles
+[Talanoa: Human rights issues for Pacific peoples in Aotearoa New Zealand](https://www.hrc.co.nz/files/6316/0695/6263/Talanoa_-_Human_rights_issues_for_Pacific_people_in_Aotearoa_New_Zealand.pdf)
+Human Rights Commission, 2020
+The purpose of this Talanoa paper is to provide a foundation piece about human rights of Pacific peoples in Aotearoa New Zealand. It identifies how human rights fits within the unique context of Pacific peoples, and how they provide a baseline understanding of the issues that require greater attention and collaboration. 
 
-[Māori Data is a Taonga](https://www.taiuru.maori.nz/data-is-a-taonga/)
-Karaitiana Taiuru, 2018
-Free eBook providing a customary Māori view of data as a taonga.
+[Contemporary Pacific Status Report](https://www.mpp.govt.nz/publications/reports/)
+Ministry for Pacific Peoples, 2016
+The Contemporary Pacific Status Report offers a present-day snapshot of the Pacific peoples population in New Zealand. Information from various data sources, including the 2013 Census, are brought together into one easily accessible document and highlights the current position of Pacific peoples in New Zealand.
 
-[Maori Data Sovereignty](https://press.anu.edu.au/publications/series/centre-aboriginal-economic-policy-research-caepr/indigenous-data-sovereignty)
-Tahu Kukutai, John Taylor, 2016
-Free eBook looking at how the data rights and interests of indigenous peoples be secured? 
+[Pacific Aotearoa Lalanga Fou Languages and High Tech Fono Report](https://www.mpp.govt.nz/publications/reports/)
+Ministry for Pacific Peoples, 2020
+The Lalanga Fou Languages and High Tech Fono was held over two days (26-27 November 2019), and brought together key stakeholders in the areas of  technology and language to discuss opportunities in the technology and Pacific language spaces. In attendance were Pacific and non-Pacific scientists, technology and innovation business leaders and academics, language experts, community groups, government officials, and broader stakeholders.
 
-[Treaty of Waitangi/Te Tiriti and Māori Ethics Guidelines for: AI, Algorithms, Data and IOT](https://www.taiuru.maori.nz/tiritiethicalguide/)
-Karaitiana Taiuru, 2020
-Free eBook examining Te Tiriti and Māori ethics for data and emerging technology.
+[Pasefika Proud](https://www.pasefikaproud.co.nz/)
+Ministry of Social Development
+Pasefika Proud is a social change movement – ‘by Pacific for Pacific’ – to boost wellbeing for Pacific families and transform attitudes, behaviours and norms that enable violence. Our name and strapline embody our strengths-based, community-led approach.
 
-## Helpful Websites on Māori Data
+[The profile of Pacific peoples in New Zealand](https://www.pasefikaproud.co.nz/assets/Resources-for-download/PasefikaProudResource-Pacific-peoples-paper.pdf)
+Ministry of Social Development and Pasefika Proud, 2016
+A report breaking down the demographics of Pacific Peoples in Aotearoa.
 
-[Te Mana Raraunga - Māori Data Sovereignty Network](https://www.temanararaunga.maori.nz/)
-This network of academics, researchers and data specialists and leaders advocate for Maori rights and interests in data to be protected, as the world moves increasingly into an open data environment.
+## Pacific Economy
 
-[Ngā Rauemi](https://www.temanararaunga.maori.nz/nga-rauemi)
-Māori Data Resources, policy briefs and publications
+[The New Zealand Pacific Economy](https://www.treasury.govt.nz/sites/default/files/2018-11/nz-pacific-economy-nov18.pdf)
+Treasury and the Pacific Business Trust, 2018
+An overview of the Pacific economy in New Zealand.
 
-[Directory of Māori Data Experts](https://www.temanararaunga.maori.nz/nga-matanga)
+[Pacific Economic Strategy](https://www.mbie.govt.nz/assets/cf13bcf509/mbie-pacific-economic-strategy-2015-2021.pdf)
+MBIE, 2015
+Strategy for how MBIE can support Pacific economic development in NZ.
 
-[Iwi Leaders Data Group](https://iwichairs.maori.nz/)
-Part of the Iwi Chair Forum which was established in 2005. This group exists to help inform and guide Iwi leaders in the matters of data.  
+## Pacific Business
 
-## Te Ao Māori
+[Pacific Women and Men in Business Report](https://www.mpp.govt.nz/publications/reports/)
+Ministry for Pacific Peoples, 2021
+This report provides data about the businesses owned in full, or in part, by Pacific people aged 20 to 65. It is the first report to analyse Pacific-owned businesses in New Zealand and provides a good baseline to measure against as we recover from the effects of COVID-19. The report also includes success stories of Pacific women in business as well as perspectives on Pacific people in business in Aotearoa New Zealand by the Pacific Business Trust. 
 
-[Te Ao Māori Report](https://www.chapmantripp.com/Publication%20PDFs/2018%20CT%20Te%20Ao%20Maori%20-%20English.pdf)
-Chapman Tripp, 2018
+## Pacific Health
 
-## Economy
+[Ola Manuia: Pacific Health and Wellbeing Action Plan 2020–2025](https://www.health.govt.nz/publication/ola-manuia-pacific-health-and-wellbeing-action-plan-2020-2025)
+Ministry of Health, 2020
+The Ola Manuia plan sets out priority outcomes and accompanying actions for the next five years to improve the health and wellbeing of our vibrant and growing Pacific population living in Aotearoa New Zealand. The plan can be used as a tool for planning, prioritising actions, and developing new and innovative methods of delivering results to improve Pacific health.
 
-[Māori Economic Insights](https://www.infometrics.co.nz/product/maori-economic-insights/)
-Infometrics, 2020
-
-[Māori labour Market Trends](https://www.mbie.govt.nz/business-and-employment/employment-and-skills/labour-market-reports-data-and-analysis/other-labour-market-reports/maori-labour-market-trends/)
-MBIE, 2019
-
-[Māori Economy Report](https://berl.co.nz/research/understanding-maori-economy)
-Berl, 2019
-
-[Māori Business Report](https://www.bdo.nz/en-nz/insights/maori-business/bdo%E2%80%99s-2019-maori-business-report-the-key-takeaways)
-BDO, 2019
-
-[Māori in Business](https://www.mbie.govt.nz/assets/749791de0d/dec-2014-maori-in-business.pdf)
-MBIE, 2014
-
-[Māori Business Report](https://home.kpmg/nz/en/home/insights/2017/06/maui-rau-from-signal-to-action.html)
-KPMG, 2017
-
-[Māori Economy Investor Guide](https://www.nzte.govt.nz/about/news/news-and-features/maori-economy-investment-guide)
-NZTE, 2017
-
-## Tourism
-
-[Māori Tourism Annual Report](https://maoritourism.co.nz/sites/default/files/J066464%20NZMT%202019%20Annual%20Report%20WEB%20NO%20FINANCIALS.pdf)
-Māori Tourism, 2019
-
-## Government
-
-[Te Puni Kōkiri Annual Report](https://www.tpk.govt.nz/en/a-matou-mohiotanga/corporate-documents/purongoatau-annual-report-2019)
-Te Puni Kōkiri, 2019
-
-[Statistical snapshot of Māori in Care](https://www.occ.org.nz/assets/Uploads/20200116-OCC-StatisticalSnapshot.pdf)
-Oranga Tamariki, 2020 
-
-## Auckland
-
-[The Māori Report](https://www.imsb.maori.nz/publications/the-maori-report/)
-Independent Māori Statutory Board, 2016
-
-[Māori in Auckland](https://www.aucklandcouncil.govt.nz/plans-projects-policies-reports-bylaws/our-plans-strategies/auckland-plan/about-the-auckland-plan/Pages/maori-tamaki-makaurau.aspx)
-Auckland City Council, 2017
-
-## Health
-
-[Māori Health Reports](https://www.health.govt.nz/our-work/populations/maori-health)
+[Pacific Health Resources](https://www.health.govt.nz/our-work/populations/pacific-health/pacific-health-resources)
 Ministry of Health
+A range of reports on Pacific health outcomes in Aotearoa including Pacific Provider funding, children's health, and more.
 
-[Māori Health Statistics](https://www.health.govt.nz/our-work/populations/maori-health/tatau-kahukura-maori-health-statistics)
-Ministry of Health, last updated in 2015
+## Pacific Education
 
-## Innovation
+[Action Plan for Pacific Education 2020-2030](https://www.education.govt.nz/our-work/overall-strategies-and-policies/action-plan-for-pacific-education-2020-2030/)
+Ministry of Education, 2020
 
-[Matauranga Māori and Science Hub](https://www.sciencelearn.org.nz/resources/2545-matauranga-maori-and-science)
-Science Learn, 2017
+The Action Plan for Pacific Education 2020–2030 has a vision that diverse Pacific learners and their families feel safe, valued and equipped to achieve their education aspirations.
 
-## COVID-19
+The plan outlines the actions the Government has committed to achieving this vision and signals how early learning services, schools and tertiary providers can achieve change for Pacific learners and their families.
 
-[Ka whati te tai: a generation disrupted. The challenges and opportunities for Māori in the new work order post COVID-19](http://www.maorifutures.co.nz/wp-content/uploads/2020/06/Tokona-Te-Raki-Ka-whati-te-tai.pdf)
-Tokona Te Raki and BERL, 2020
+[Pacific Education Data and Resources](https://www.educationcounts.govt.nz/topics/pacific-education)
+Ministry of Education
 
-[COVID-19 Maori Economic Impact](https://static.infometrics.co.nz/Content/Infometrics_M%C4%81ori_Webinar_Slide_Pack_2020-05-05.pdf)
-Infometrics, 2020
+## Pacific Research
 
-[Employment and Covid19](https://www.notion.so/natd/COVID-19-Job-Impacts-930f46b6cb934dd282f99007e310c010)
-Figure.NZ, 2020
+[A Better Start - E Tipu E Rea](https://www.moanaresearch.co.nz/wp-content/uploads/2019/04/A-Better-Start_Pasifika-Scoping-Doc_FINAL.pdf)
+Scoping document for Pasifika-led research as part of the National Science Challenge.
 
-[Stats NZ COVID-19 Data Portal](https://www.stats.govt.nz/experimental/covid-19-data-portal)
-Stats NZ, 2020
+## Pacific Aid
 
-[Te Ropū Whakakaupapa Urutā](https://www.uruta.maori.nz/)
+[New Zealand Support to Pacific Countries](mfat.govt.nz/en/aid-and-development/our-aid-partnerships-in-the-pacific/)
+MFAT
+
+## Pacific People in Auckland
+
+[Pacific Auckland](https://www.aucklandcouncil.govt.nz/plans-projects-policies-reports-bylaws/our-plans-strategies/auckland-plan/about-the-auckland-plan/Pages/pacific-auckland.aspx)
+Auckland Council
+
+## Pacific Region
+
+[APEC regional trends analysis](https://www.apec.org/Publications?Category=&Keyword=regional+trends&PublicationTitle=&PublicationNumber=&pubType=&ISBN=&KeyOnly=False&StartYear=&StartMonth=&EndYear=&EndMonth=)
+APEC
+
+[Pacific Data Hub](https://pacificdata.org/)
+Data for and about the Pacific region.
