@@ -9,17 +9,15 @@ isHome: false
 
 > NEEDS UPDATING
 
-{{site.title}} is a free tool to help Māori access data and develop data skills to support their mahi.
+{{site.title}} is a free tool to help Pacific people in Aotearoa access data and develop data skills to support their work.
 
-You'll find a range of data about Māori and Māori issues, and resources to help you understand and use the data.
+You'll find a range of data about Pacific people and Pacific issues, and resources to help you understand and use the data.
 
 Can't find what you're looking for? Email us at <help@figure.nz> and let us know what you need.
 
 ## Who made this?
 
-{{site.title}} is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends in the Māori Economy team at [Callaghan Innovation](https://www.callaghaninnovation.govt.nz/access-experts/maori-economy). We are very grateful for both their support and their shared passion for Māori wellbeing and economic success.
-
-A special mihi to Vincent Campbell who gifted us the name of Pātaka Raraunga. Pātaka is the name for a traditional Maori storehouse or cupboard, and Raraunga being the Maori word for Data.
+{{site.title}} is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends at Stats NZ and Jackie Curry at Spacific Consultance. We are very grateful for both their support and their shared passion for Pacific wellbeing and economic success in Aotearoa.
 
 ### Figure.NZ
 
