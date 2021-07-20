@@ -1,0 +1,25 @@
+title: Name of project
+subtitle: Subtitle of project
+description: Description of project for metadata in search and other sites.
+analytics: true
+# analytics is a boolean value that determinees whether the woopra file is enabled.
+
+# collections are groups of pages/posts that can be displayed in blocks on the homepage and the sidebar menu.
+collections:
+  topics:
+    output: true
+
+markdown: kramdown
+
+sass:
+    style: compressed
+
+include:
+  - .htaccess
+  - assets/css/main.scss
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

@@ -1,0 +1,13 @@
+<nav class="main-nav">
+    <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+    <ul>
+        <li><a href="{{site.baseurl}}{% link index.md %}">Home</a></li>
+        <li><a href="{{site.baseurl}}{% link about.md %}">About</a></li>
+        <!--Add more individual pages here-->
+        <li><a><em>Topics</em></a></li>
+        {% for topic in site.topics %}
+            <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        <!--Add more collection groups here. The code example above will iterate through each post.-->
+    </ul>
+</nav>

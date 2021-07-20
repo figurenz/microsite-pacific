@@ -1,0 +1,28 @@
+.main-header {
+  padding: 0px;
+
+  .menu-icon{
+    color: $menu-header-colour;
+  }
+
+  .logo {
+    margin: .5em;
+    a {
+      color: $menu-header-colour;
+      font-family: $menu-header-font-family;
+    }
+  }
+
+  .search-icon{
+    a {
+      color: $menu-header-colour;
+    }
+  }
+  
+nav  .main- {
+    height: inherit !important;
+    max-height: 100vh !important;
+    overflow-y: scroll; 
+    overflow-x: hidden;
+  }
+}

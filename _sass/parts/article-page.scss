@@ -1,0 +1,224 @@
+.article-page {
+  background-image: $ta-background-image-url;
+  background-repeat: repeat;
+  background-color: $background-colour;
+  padding-bottom: 4em;
+  
+  .page-image {
+    background-color: $background-header-colour;
+  }
+
+  .page-content {
+    
+    padding: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: $border-radius;
+    margin-bottom: 50px !important;
+    h1, h2, h3, h4, h5 {
+      color: $header-colour;
+    }
+
+    h1 {
+      font-family: $h1-font-family;
+      font-size: $h1-font-size;
+    }
+
+    h2 {
+      font-family: $h2-font-family;
+      font-size: $h2-font-size;
+    }
+
+    h3 {
+      font-family: $h3-font-family;
+      font-size: $h3-font-size;
+      margin-bottom: 0.25em;
+      line-height: 1em;
+    }
+
+    h4 {
+      font-family: $h4-font-family;
+      font-size: $h4-font-size;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      line-height: 1em;
+    }
+
+    h5 {
+      font-family: $h5-font-family;
+    }
+
+    p, li {
+      font-family: $h4-font-family;
+      font-size: $h4-font-size;
+      color: $measure-text-colour;
+    }
+
+    i {
+      color: $header-colour;
+      margin-right: .5em;
+      position: relative;
+      top: 3px;
+      left: 5px;
+    }
+
+    .center-image {
+    margin: 0 auto;
+    display: block;
+    }
+
+    .right-image {
+      float: right;
+      margin: 0 auto;
+      display: inline-flex;
+      }
+   
+      .close-button {
+        border-radius: 5px;
+        padding: .5em 1em;
+        margin-bottom: .5em;
+        box-sizing: border-box;
+        background: $button-colour;
+        border-color: disintensify($button-colour);
+        color: $white;
+        font-family: $h3-font-family;
+        text-decoration: none;
+      
+        &:not([disabled]):hover {
+          border-color: $button-colour;
+          background: intensify($button-colour);
+          text-decoration: none;
+        }
+      }
+
+    .download-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline-block;
+        font-family: $h4-font-family;
+        font-size: $h4-font-size;
+        margin-right: 1em;
+      }
+    }
+
+    .header-badge {
+      float: right;
+      margin-top: -41px;
+      margin-right: -40px;
+    }
+
+    .header-page {
+      h1 {
+        font-family: $h1-font-family;
+        color: $header-colour; 
+        text-align: left;
+      }
+    }
+
+    .dataset {
+      border-bottom: 1px solid $dataset-border-colour;
+
+      h2 button {
+        background-color: rgba(0,0,0,0); /* Save IE11 and Edge from themselves */
+        border: none; /* Save IE11 and Edge from themselves */
+        text-align: left; /* Save IE11 and Edge from themselves */
+        font-family: $h2-font-family; /* Save IE11 and Edge from themselves */
+        color: $header-colour; /* Save IE11 and Edge from themselves */
+        all: inherit;
+        width: 100%;
+        cursor: pointer;
+      }
+
+      h2 button:after {
+        float: right;
+        font-family: FontAwesome;
+      }
+      
+      h2 button[aria-expanded='false']:after {
+        content:"\f107";
+      }
+
+      h2 button[aria-expanded='true']:after {
+        content:"\f106";
+      }
+
+      .dataset-measures {
+
+        .measure-categories {
+          border-left: 5px solid $header-colour;
+          padding-left: 20px;
+          margin-top: 2em;
+          margin-bottom: 5em;
+
+          .measure-category {
+          
+            display: grid;
+            grid-template-columns: auto auto;
+            align-items: start;
+            margin-bottom: 1em;
+  
+            span {
+              grid-column: 1;
+              color: $measure-text-colour;
+              font-family: $measure-category-font-family;
+              font-size: $h4-font-size;
+              line-height: 1em;
+            }
+
+            span:first-child {
+              font-size: $h3-font-size;
+            }
+
+            .measure-category-value {
+              grid-row: 1 / span 3;
+              grid-column: 2;
+              justify-self: end;
+              color: $header-colour;
+              font-size: $h2-font-size;
+              font-family: $measure-category-value-font-family;
+              text-transform: capitalize;
+            }
+          }
+        }
+      }
+
+      .dataset-measures[aria-hidden='true'] {
+        display: none;
+      }
+    }
+
+    .dataset:last-child {
+      border-bottom: none;
+    }
+  }
+  
+  .recent-box {
+    border: none;
+
+    .recent-title {
+      font-family: $post-card-font-family;
+      font-size: 4em;
+      color: $post-card-header-colour;
+      margin-bottom: 20px !important;
+    }
+
+    .recent-list {
+      .recent-item {
+        width: 100% !important;
+        border-radius: $border-radius;
+
+        span {
+          font-family: $post-card-font-family;
+          font-size: 3em;
+          line-height: 1em;
+          color: $post-card-header-colour;
+        }
+      }
+    }
+  }
+}
+
+/* = = = = = = = = = = Button to close a section = = = = = = = = = = */
+@import "parts/close-button";
