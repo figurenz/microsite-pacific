@@ -2,7 +2,7 @@
 layout: homepage
 data: patakarauranga
 title: Pacific Data in Aotearoa
-subtitle: Explore data for and about Pacific people in Aotearoa
+subtitle: A place to find data for and about Pacific people in Aotearoa.
 isHome: true
 ---
 
