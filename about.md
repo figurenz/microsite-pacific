@@ -7,8 +7,6 @@ isHome: false
 
 # About {{site.title}}
 
-> NEEDS UPDATING
-
 {{site.title}} is a free tool to help Pacific people in Aotearoa access data and develop data skills to support their work.
 
 You'll find a range of data about Pacific people and Pacific issues, and resources to help you understand and use the data.
