@@ -4,9 +4,24 @@
         <li><a href="{{site.baseurl}}{% link index.md %}">Home</a></li>
         <li><a href="{{site.baseurl}}{% link about.md %}">About</a></li>
         <!--Add more individual pages here-->
-        <li><a><em>Topics</em></a></li>
-        {% for topic in site.topics %}
+        <li><a href="{{site.url}}#topics"><strong>Topics</strong></a></li>
+        {% for topic in site.topics-people %}
             <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        {% for topic in site.topics-wellbeing %}
+        <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        {% for topic in site.topics-health %}
+        <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        {% for topic in site.topics-education %}
+        <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        {% for topic in site.topics-biz %}
+        <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
+        {% endfor %}
+        {% for topic in site.topics-countries %}
+        <li><a href="{{ topic.link | relative_url }}">{{ topic.title }}</a></li>
         {% endfor %}
         <!--Add more collection groups here. The code example above will iterate through each post.-->
     </ul>
