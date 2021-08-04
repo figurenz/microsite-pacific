@@ -23,6 +23,7 @@
 }
 
 .main-nav {
+  visibility: hidden;
   position: fixed;
   top: 0;
   left: 0;
@@ -54,6 +55,10 @@
       }
     }
   }
+}
+
+.main-nav.active {
+  visibility: visible;
 }
 
 .menu-icon-container {
