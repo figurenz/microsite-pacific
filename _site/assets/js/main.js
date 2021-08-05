@@ -5,6 +5,7 @@ $(function () {
   var searchBox = $('.search-box')
   var searchClose = $('.search-icon-close')
   var searchInput = $('#search-input')
+  var sideNavClose = $('span.menu-icon-close')
 
   // Menu Settings
   $('.menu-icon, .menu-icon-close').click(function (e) {
@@ -14,11 +15,28 @@ $(function () {
     sideNav.toggleClass('active')
   })
 
+  $('.menu-icon, .menu-icon-close').keydown(function (e) {
+    if(e.key === 'Enter') {
+      e.preventDefault()
+      e.stopPropagation()
+      flexContainer.toggleClass('active') 
+      sideNav.toggleClass('active')
+    }
+  })
+
   // Click outside of menu to close it
   flexContainer.click(function (e) {
     if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
       flexContainer.removeClass('active') 
       sideNav.removeClass('active')
+    }
+  })
+
+  // Press Enter key to close menu when focus is on close icon
+  $('span.menu-icon-close').keydown(function (e) {
+    if (e.key === 'Enter') {
+        flexContainer.removeClass('active')
+        sideNav.removeClass('active')
     }
   })
 
