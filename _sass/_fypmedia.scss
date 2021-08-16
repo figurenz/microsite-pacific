@@ -32,7 +32,7 @@
       font-size: $h4-font-size;
     }
     .content .pr-logo {
-      max-width: 200px;
+      max-width: 80vw;
   }
   }
   .article-page {
@@ -104,6 +104,9 @@
   .two-col-container .two-col-card {
     padding: 1em 0;
   }
+  .categories-image {
+    padding: 0;
+  }
 }
 
 @media (min-width: 1400px) {
@@ -137,4 +140,8 @@
       justify-content: center;
     }
   }  
+  .categories-image {
+    padding: 0;
+    padding-right: 2em;
+  }
 }
