@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="107px" viewBox="0 0 107 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>reports</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reports" transform="translate(2.000000, 2.500000)">
+            <path d="M51.13,0 C22.9105,0 0,22.911 0,51.13 C0,79.35 22.9105,102.26 51.13,102.26 C79.3494,102.26 102.2602,79.35 102.2602,51.13 C102.2602,22.911 79.3494,0 51.13,0 Z" id="Fill-13" fill="#5E61C8"></path>
+            <path d="M51.13,0 C22.9105,0 0,22.911 0,51.13 C0,79.35 22.9105,102.26 51.13,102.26 C79.3494,102.26 102.2602,79.35 102.2602,51.13 C102.2602,22.911 79.3494,0 51.13,0 Z" id="Stroke-14" stroke="#C4CEF6" stroke-width="4"></path>
+            <polyline id="Fill-15" fill="#5E61C8" points="29.01 60.25 42.78 51.32 28.97 42.46"></polyline>
+            <polyline id="Stroke-16" stroke="#C4CEF6" stroke-width="4" points="29.01 60.25 42.78 51.32 28.97 42.46"></polyline>
+            <polyline id="Fill-17" fill="#5E61C8" points="73.52 60.25 59.75 51.32 73.56 42.46"></polyline>
+            <polyline id="Stroke-18" stroke="#C4CEF6" stroke-width="4" points="73.52 60.25 59.75 51.32 73.56 42.46"></polyline>
+            <polyline id="Fill-19" fill="#5E61C8" points="66.05 67.54 55.34 58.99 51.25 65.17 46.92 58.98 35.72 67.54"></polyline>
+            <polyline id="Stroke-20" stroke="#C4CEF6" stroke-width="4" points="66.05 67.54 55.34 58.99 51.25 65.17 46.92 58.98 35.72 67.54"></polyline>
+            <line x1="51.25" y1="65.17" x2="51.25" y2="83.96" id="Stroke-21" stroke="#C4CEF6" stroke-width="4"></line>
+            <polyline id="Fill-22" fill="#5E61C8" points="66.05 34.64 55.34 43.2 51.25 37.01 46.92 43.2 35.72 34.64"></polyline>
+            <polyline id="Stroke-23" stroke="#C4CEF6" stroke-width="4" points="66.05 34.64 55.34 43.2 51.25 37.01 46.92 43.2 35.72 34.64"></polyline>
+            <line x1="51.25" y1="37.01" x2="51.25" y2="18.75" id="Stroke-24" stroke="#C4CEF6" stroke-width="4"></line>
+            <line x1="34.16" y1="51.25" x2="8.28" y2="51.25" id="Stroke-25" stroke="#C4CEF6" stroke-width="4"></line>
+            <line x1="67.51" y1="51.25" x2="94.2502" y2="51.25" id="Stroke-26" stroke="#C4CEF6" stroke-width="4"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="107px" viewBox="0 0 107 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>experts</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="experts" transform="translate(2.000000, 2.000000)">
+            <path d="M51.13,3.26849658e-13 C22.9105,3.26849658e-13 -2.84217094e-14,22.911 -2.84217094e-14,51.13 C-2.84217094e-14,79.35 22.9105,102.26 51.13,102.26 C79.3494,102.26 102.2602,79.35 102.2602,51.13 C102.2602,22.911 79.3494,3.26849658e-13 51.13,3.26849658e-13 Z" id="Fill-9" fill="#BA0A87"></path>
+            <path d="M51.13,3.26849658e-13 C22.9105,3.26849658e-13 -2.84217094e-14,22.911 -2.84217094e-14,51.13 C-2.84217094e-14,79.35 22.9105,102.26 51.13,102.26 C79.3494,102.26 102.2602,79.35 102.2602,51.13 C102.2602,22.911 79.3494,3.26849658e-13 51.13,3.26849658e-13 Z" id="Stroke-10" stroke="#E2B3D5" stroke-width="4"></path>
+            <polyline id="Fill-11" fill="#BA0A87" points="36.45 85.66 65.31 44.28 50.88 23.58 36.45 44.28 65.31 85.66"></polyline>
+            <polyline id="Stroke-12" stroke="#E2B3D5" stroke-width="4" points="36.45 85.66 65.31 44.28 50.88 23.58 36.45 44.28 65.31 85.66"></polyline>
+        </g>
+    </g>
+</svg>
