@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1800 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="1800" height="900" style="fill:rgb(1,33,105);"/>
+    <g>
+        <path d="M329.376,777.265C311.442,777.116 498,677.834 654.145,550.666C858.789,383.999 1299.54,117.156 1429.12,73.795C1442.66,69.263 1401.34,96.868 1395.98,105.811C1257.63,269.551 1368.05,578.535 1540.95,733.859C1592.94,773.622 1590.28,775.71 1686.66,779.605L1686.66,788.605L329.376,777.265Z" style="fill:rgb(255,209,0);fill-rule:nonzero;"/>
+        <path d="M318.125,795.325C318.125,795.325 304.962,804.728 305,811.731C305.043,819.503 319.766,829.778 319.766,829.778L1658.51,844.543L1683.12,828.137L1648.67,806.809L318.125,795.325Z" style="fill:rgb(255,209,0);fill-rule:nonzero;"/>
+    </g>
+    <g>
+        <g id="star" transform="matrix(45,0,0,45,342.957,112.581)">
+            <g id="arm" transform="matrix(1,0,0,1,0,-0.324925)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm1" serif:id="arm" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm2" serif:id="arm" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm3" serif:id="arm" transform="matrix(-0.809017,-0.587785,0.587785,-0.809017,-0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm4" serif:id="arm" transform="matrix(0.309017,-0.951057,0.951057,0.309017,-0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="star1" serif:id="star" transform="matrix(37.5,0,0,37.5,521.205,267.53)">
+            <g id="arm5" serif:id="arm" transform="matrix(1,0,0,1,0,-0.324925)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm6" serif:id="arm" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm7" serif:id="arm" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm8" serif:id="arm" transform="matrix(-0.809017,-0.587785,0.587785,-0.809017,-0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm9" serif:id="arm" transform="matrix(0.309017,-0.951057,0.951057,0.309017,-0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="star2" serif:id="star" transform="matrix(45,0,0,45,135,321.808)">
+            <g id="arm10" serif:id="arm" transform="matrix(1,0,0,1,0,-0.324925)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm11" serif:id="arm" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm12" serif:id="arm" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm13" serif:id="arm" transform="matrix(-0.809017,-0.587785,0.587785,-0.809017,-0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm14" serif:id="arm" transform="matrix(0.309017,-0.951057,0.951057,0.309017,-0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+        <g id="star3" serif:id="star" transform="matrix(52.5,0,0,52.5,342.957,652.581)">
+            <g id="arm15" serif:id="arm" transform="matrix(1,0,0,1,0,-0.324925)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm16" serif:id="arm" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm17" serif:id="arm" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm18" serif:id="arm" transform="matrix(-0.809017,-0.587785,0.587785,-0.809017,-0.190986,0.26287)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="arm19" serif:id="arm" transform="matrix(0.309017,-0.951057,0.951057,0.309017,-0.309022,-0.100407)">
+                <path d="M1,0L0,0L0,0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                <g transform="matrix(0.809017,-0.587785,0.587785,0.809017,0.190983,0.587785)">
+                    <path d="M1,0L0,0L0,-0.5L1,0Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
