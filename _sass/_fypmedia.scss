@@ -11,8 +11,20 @@
       }
     }
   }
-  .two-col-container.heading-container {
+  .two-col-container.heading-container, .two-col-container, .two-col-container.two-col-container.reverse {
     flex-direction: column;
+  }
+  .two-col-container .two-col-card.text {
+    margin: 0;
+  }
+  .two-col-container .two-col-card {
+    padding: 1em 0;
+  }
+  .two-col-container img {
+    max-height: 76vh;
+  }
+  .categories-image {
+    padding: 0;
   }
   .main-header .wrapper {
     padding: 0;
@@ -20,9 +32,6 @@
 }
 
 @media only screen and (max-width: 650px) {
-  // #home {
-  //   margin-top: 10px;
-  // }
   .home-section {
     padding-top: 30px;
     h1 {
