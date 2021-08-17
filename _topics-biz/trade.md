@@ -1,6 +1,6 @@
 ---
 layout: content
-data: technology
+data: trade
 title: Trade
 isHome: true
 link: https://figure.nz/search/?query=pacific%20trade&ref=pfnz
