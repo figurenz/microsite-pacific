@@ -20,9 +20,9 @@
 }
 
 @media only screen and (max-width: 650px) {
-  #home {
-    margin-top: 10px;
-  }
+  // #home {
+  //   margin-top: 10px;
+  // }
   .home-section {
     padding-top: 30px;
     h1 {
@@ -33,7 +33,10 @@
     }
     .content .pr-logo {
       max-width: 80vw;
+    }
   }
+  .svg-stripe {
+    margin-top: -100px;
   }
   .article-page {
     .page-content {
@@ -118,8 +121,14 @@
       .pr-logo {
         max-width: 400px;
       }
+      .header-logo {
+        margin-bottom: 10vh;
+      }
     }
-}
+  }
+  .svg-stripe {
+    margin-top: -25vh;
+  }
   .wrapper {
     width: 1600px;
     .post-card-box li {
