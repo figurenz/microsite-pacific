@@ -1,6 +1,6 @@
 ---
 layout: content
-data: tools
+data: experts
 title:  Pacific Data Directory
 subtitle: Find Pacific data analysts, experts, visualisers, and advisors
 isHome: false
