@@ -47,11 +47,11 @@ As a Pacific social change agency, we are interested in social problems facing c
 
 [University of Auckland Pacific Researchers](https://www.auckland.ac.nz/en/research/research-institutes-and-centres/pacific-research.html)
 
-Pacific researches working out of the University of Auckland.
+Pacific researchers working out of the University of Auckland.
 
 [AUT Pacific Researchers](https://www.aut.ac.nz/about/pacific/our-research)
 
-Pacific researches working out of the Auckland University of Technology (AUT).
+Pacific researchers working out of the Auckland University of Technology (AUT).
 
 [University of Otago Pacific Health Researchers](https://www.otago.ac.nz/pacific-health-research/research/researchers/index.html)
 
