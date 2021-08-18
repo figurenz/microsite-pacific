@@ -17,9 +17,11 @@ Can't find what you're looking for? Email us at <help@figure.nz> and let us know
 
 {{site.title}} is brought to you by [Figure.NZ](https://figure.nz). This project is supported by our friends at [Stats NZ](https://stats.govt.nz). We are very grateful for both their support and their shared passion for Pacific wellbeing through access to quality data.
 
-A special mihi to Dr Ofa Ketu’u, of Tonga, who gifted us the name of {{site.title}}. Dr Ofa Ketu’u has dedicated many years to Pacific data in Aotearoa. She has worked as a senior leader in Pacific data for Statistics NZ for over 18 years and is a founding member of the Pacific Data Sovereignty Network She is also the Director of Statistics for SPC and has significant technical expertise in economic and social statistics for Pacific people. We wanted to acknowledge Dr Ofa’s contribution and guidance to this project. 
+A special mihi to Dr Ofa Ketu’u, who gifted us the name of '{{site.title}}'. Dr Ofa Ketu’u has worked at Statistics NZ for many years, holding managerial roles in different parts of the organisation. She is also a member of the Pacific Data Sovereignty Network. Between 2016-2019, she was Director of Statistics for Pacific Community (SPC) based in Noumea, New Caledonia. She has a very strong knowledge of economic and social statistics for Pacific people and her passion is ensuring Pacific people use statistics and data to inform decisions that affect their lives on a day-to-day basis. 
 
-We’d also like to acknowledge Afamasanga Jackie Curry, from Samoa, who has been the project lead for this work, and provided invaluable cultural advisory and community engagement. 
+Ofa hails from the Kingdom of Tonga but also considers herself a New Zealand immigrant. She lives in the heart of South Auckland with her whanau. We want to acknowledge Dr Ofa’s contribution to this project but also her lifelong dedication to Pacific people's data and wellbeing.
+
+We’d also like to acknowledge Afamasanga Jackie Curry, from Samoa. Jackie has been the project lead for the {{site.title}}, and provided invaluable cultural advice and community engagement. 
 
 All of the beautiful illustrations you see on {{site.title}} are the work of the team at Bluwave and designer Martin Anae of Samoa and his Pacific digital agency. 
 
