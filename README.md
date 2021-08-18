@@ -1,10 +1,10 @@
-# Figure.NZ Microsites
+# Pacific Data Fale o Aotearoa
 
-This is a Jekyll-based website template used for making Figure.NZ microsites.
+This is a Jekyll-based website made by Figure.NZ to collect and share resources and data about and for pacific people in Aotearoa.
 
-Code from this website can be shared. You may not use the fonts.
+Code and data from this website can be shared. You may not use the fonts, stock images, or illustrations.
 
-This is because of licensing requirements. Font files are only licensed to Figure.NZ.
+This is because of licensing requirements. Font files, stock images, and illustrations are only licensed to Figure.NZ.
 
 ## Structure
 
