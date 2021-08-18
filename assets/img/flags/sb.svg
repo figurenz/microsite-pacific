@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M0,400L0,0L800,0L0,400Z" style="fill:rgb(0,81,186);fill-rule:nonzero;"/>
+    <path d="M0,400L800,400L800,0L0,400Z" style="fill:rgb(33,91,51);fill-rule:nonzero;"/>
+    <path d="M0,400L800,0" style="fill:none;fill-rule:nonzero;stroke:rgb(252,209,22);stroke-width:36px;"/>
+    <g transform="matrix(1,0,0,1,140,120)">
+        <g id="s">
+            <g id="f">
+                <g id="t">
+                    <g id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o1" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="t1" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                    <g id="o2" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o3" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="t2" serif:id="t" transform="matrix(0.309017,-0.951057,0.951057,0.309017,0,0)">
+                <g id="o4" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                    <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g id="o5" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                    <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="f1" serif:id="f" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)">
+                <g id="t3" serif:id="t">
+                    <g id="o6" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o7" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="t4" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                    <g id="o8" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o9" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="s2" transform="matrix(0.759271,0.650774,-0.650774,0.759271,0,0)">
+            <g id="s1" transform="matrix(0.759271,-0.650774,0.650774,0.759271,-104,0)">
+                <g id="f2" serif:id="f">
+                    <g id="t5" serif:id="t">
+                        <g id="o10" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o11" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t6" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o12" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o13" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="t7" serif:id="t" transform="matrix(0.309017,-0.951057,0.951057,0.309017,0,0)">
+                    <g id="o14" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o15" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="f3" serif:id="f" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)">
+                    <g id="t8" serif:id="t">
+                        <g id="o16" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o17" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t9" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o18" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o19" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="s3" serif:id="s" transform="matrix(1,0,0,1,104,0)">
+                <g id="f4" serif:id="f">
+                    <g id="t10" serif:id="t">
+                        <g id="o20" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o21" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t11" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o22" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o23" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="t12" serif:id="t" transform="matrix(0.309017,-0.951057,0.951057,0.309017,0,0)">
+                    <g id="o24" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o25" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="f5" serif:id="f" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)">
+                    <g id="t13" serif:id="t">
+                        <g id="o26" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o27" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t14" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o28" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o29" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="s21" serif:id="s2" transform="matrix(-0.759271,0.650774,0.650774,0.759271,0,0)">
+            <g id="s11" serif:id="s1" transform="matrix(0.759271,-0.650774,0.650774,0.759271,-104,0)">
+                <g id="f6" serif:id="f">
+                    <g id="t15" serif:id="t">
+                        <g id="o30" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o31" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t16" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o32" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o33" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="t17" serif:id="t" transform="matrix(0.309017,-0.951057,0.951057,0.309017,0,0)">
+                    <g id="o34" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o35" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="f7" serif:id="f" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)">
+                    <g id="t18" serif:id="t">
+                        <g id="o36" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o37" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t19" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o38" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o39" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="s4" serif:id="s" transform="matrix(1,0,0,1,104,0)">
+                <g id="f8" serif:id="f">
+                    <g id="t20" serif:id="t">
+                        <g id="o40" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o41" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t21" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o42" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o43" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="t22" serif:id="t" transform="matrix(0.309017,-0.951057,0.951057,0.309017,0,0)">
+                    <g id="o44" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="o45" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                        <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="f9" serif:id="f" transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)">
+                    <g id="t23" serif:id="t">
+                        <g id="o46" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o47" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                    <g id="t24" serif:id="t" transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)">
+                        <g id="o48" serif:id="o" transform="matrix(0.951057,0.309017,-0.309017,0.951057,-12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                        <g id="o49" serif:id="o" transform="matrix(-0.951057,0.309017,0.309017,0.951057,12.3607,-1.95774)">
+                            <path d="M0,-40L0,0L20,0L0,-40Z" style="fill:white;fill-rule:nonzero;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
