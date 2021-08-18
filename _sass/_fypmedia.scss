@@ -9,6 +9,9 @@
       a {
           margin: auto;
       }
+      .categories-image img {
+          padding-right: 0;
+      }
     }
   }
   .two-col-container.heading-container, .two-col-container, .two-col-container.two-col-container.reverse {
@@ -22,9 +25,6 @@
   }
   .two-col-container img {
     max-height: 76vh;
-  }
-  .categories-image {
-    padding: 0;
   }
   .main-header .wrapper {
     padding: 0;
@@ -115,9 +115,6 @@
   }
   .two-col-container .two-col-card {
     padding: 1em 0;
-  }
-  .categories-image {
-    padding: 0;
   }
 }
 
