@@ -5,7 +5,7 @@
     <title>{{ site.title }} - {{ page.display-name | default: page.title }} </title>
     <meta name="description" content="{% if page.isHome != true %}Find and use data about and for Pacific people in Aotearoa{% else %}{{site.description}}{% endif %}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
     <meta property="og:site_name" content="{{site.title | xml_escape}}">
     <meta property="og:title" content="{{site.title | xml_escape}}">
     <meta property="og:type" content="website">
@@ -47,7 +47,7 @@
             {% if page.isHome == true %}
             <section class="home-section">  
                     <div class="content wrapper">
-                    <img class="logos pr-logo" src="{{site.baseurl}}/assets/img/layout/falelogo.svg" />
+                    <img class="logos pr-logo" alt="logo of a Samoan flower and words 'Pacific Data Fale o Aotearoa'" src="{{site.baseurl}}/assets/img/layout/falelogo.svg" />
                     <div class="two-col-container heading-container">
                         <div class="two-col-card heading-card text">
                             <h1>Find data for and about Pacific people in Aotearoa</h1>
