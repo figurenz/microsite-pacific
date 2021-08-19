@@ -69,7 +69,7 @@ Area of speciality: Pacific Research, Health, Data.
 
 Role: CEO Moana Research
 
-[Dr Ofa Ketu'u](https://stats.nz)
+[Dr Ofa Ketu'u](https://stats.govt.nz)
 
 Area of speciality: Official statistics on Pacific Peoples.
 
@@ -98,6 +98,24 @@ Role: Director of Whanau and Community Insights and Design, PWC, Pacific Data So
 Area of speciality: Pacific Data, Statistics, Analysis.
 
 Role: Social Impact Manager, The Cause Collective.
+
+[Dr Corina Grey](https://www.moanaresearch.co.nz/pacific-data-sovereignty/)
+
+Area of speciality: Epidemiology, Health.
+
+Role: Pacific Data and Insights Lead, Auckland DHB, member of Pacific Data Sovereignty Network.
+
+[Shane Laulu](https://stats.govt.nz)
+
+Area of speciality: Pacific Data, Statistics, Census.
+
+Role: Pacific Working Group, Senior Engagement Advisor Census Partnerships & Engagement, Stats NZ.
+
+[Maria Uluilelata](https://stats.govt.nz)
+
+Area of speciality: Pacific Data, Statistics, Community, Census.
+
+Role: Pacific Working Group, Regional Manager - Community Engagement, Stats NZ.
 
 ## Missing someone?
 
