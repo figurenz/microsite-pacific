@@ -11,9 +11,9 @@ _{{ page.subtitle }}_
 
 ## Organisations
 
-[Stats NZ Pacific Data Team](https://stats.govt.nz)
+[Stats NZ Customer Service Team](https://stats.govt.nz)
 
-Led by Dr Ofa Ketu'u, Stats NZ has a team of Pacific data experts who can help with Pacific data requests.
+Led by Ms. Mele Siakumi-Kautoke, Stats NZ's customer service team can help guide you to find and access official statistics and data about Pacific people.
 
 [Ministry of Pacific People - Research and Data team](https://www.mpp.govt.nz/)
 
@@ -71,9 +71,9 @@ Role: CEO Moana Research
 
 [Dr Ofa Ketu'u](https://stats.nz)
 
-Area of speciality: Pacific Data, Statistics, Economics.
+Area of speciality: Official statistics on Pacific Peoples.
 
-Role: Senior Lead, Pacific Statistics, Stats NZ, Pacific Data Sovereignty Network.
+Role: Program Manager Stats NZ Pacific Statistics Support Program.
 
 [Dr Ana Koloto](https://www.mpp.govt.nz/)
 
@@ -99,6 +99,9 @@ Area of speciality: Pacific Data, Statistics, Analysis.
 
 Role: Social Impact Manager, The Cause Collective.
 
+## Missing someone?
+
+If you, your organisation, or someone you know should be on this list, contact us at <pacificdata@figure.nz>
 
 
 
