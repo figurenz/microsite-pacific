@@ -99,6 +99,9 @@ Area of speciality: Pacific Data, Statistics, Analysis.
 
 Role: Social Impact Manager, The Cause Collective.
 
+## Missing someone?
+
+If you, your organisation, or someone you know should be on this list, contact us at <pacificdata@figure.nz>
 
 
 
