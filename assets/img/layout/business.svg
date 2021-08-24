@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>business</title>
+    <g id="business" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(21.000000, 21.000000)">
+            <path d="M88.9998259,0 C39.8793372,0 0,39.8802855 0,89 C0,138.121455 39.8793372,178 88.9998259,178 C138.120141,178 178,138.121455 178,89 C178,39.8802855 138.120141,0 88.9998259,0 Z" id="Fill-27" fill="#4DB7C5"></path>
+            <path d="M88.9998259,0 C39.8793372,0 0,39.8802855 0,89 C0,138.121455 39.8793372,178 88.9998259,178 C138.120141,178 178,138.121455 178,89 C178,39.8802855 138.120141,0 88.9998259,0 Z" id="Stroke-28" stroke="#C4E7F1" stroke-width="4"></path>
+            <polyline id="Fill-29" fill="#4DB7C5" points="42 52 81 95.5086913 42 139"></polyline>
+            <polyline id="Stroke-30" stroke="#C4E7F1" stroke-width="4" points="42 52 81 95.5086913 42 139"></polyline>
+            <polyline id="Fill-31" fill="#4DB7C5" points="136 52 97 95.5086913 136 139"></polyline>
+            <polyline id="Stroke-32" stroke="#C4E7F1" stroke-width="4" points="136 52 97 95.5086913 136 139"></polyline>
+            <polyline id="Fill-33" fill="#4DB7C5" points="129 40 90 84 51 40"></polyline>
+            <polyline id="Stroke-34" stroke="#C4E7F1" stroke-width="4" points="129 40 90 84 51 40"></polyline>
+            <polyline id="Fill-35" fill="#4DB7C5" points="129 148 90 104 51 148"></polyline>
+            <polyline id="Stroke-36" stroke="#C4E7F1" stroke-width="4" points="129 148 90 104 51 148"></polyline>
+        </g>
+    </g>
+</svg>

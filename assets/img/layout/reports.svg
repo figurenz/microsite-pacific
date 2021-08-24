@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>reports</title>
+    <g id="reports" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(21.000000, 21.105950)">
+            <path d="M88.9998259,-0.105949731 C39.8793372,-0.105949731 0,39.7743358 0,88.8940503 C0,138.015505 39.8793372,177.89405 88.9998259,177.89405 C138.120141,177.89405 178,138.015505 178,88.8940503 C178,39.7743358 138.120141,-0.105949731 88.9998259,-0.105949731 Z" id="Fill-13" fill="#5E61C8"></path>
+            <path d="M88.9998259,-0.105949731 C39.8793372,-0.105949731 0,39.7743358 0,88.8940503 C0,138.015505 39.8793372,177.89405 88.9998259,177.89405 C138.120141,177.89405 178,138.015505 178,88.8940503 C178,39.7743358 138.120141,-0.105949731 88.9998259,-0.105949731 Z" id="Stroke-14" stroke="#C4CEF6" stroke-width="4"></path>
+            <polyline id="Fill-15" fill="#5E61C8" points="51.0695148 104.89405 75 89.3330609 51 73.8940503"></polyline>
+            <polyline id="Stroke-16" stroke="#C4CEF6" stroke-width="4" points="51.0695148 104.89405 75 89.3330609 51 73.8940503"></polyline>
+            <polyline id="Fill-17" fill="#5E61C8" points="127.930485 104.89405 104 89.3330609 128 73.8940503"></polyline>
+            <polyline id="Stroke-18" stroke="#C4CEF6" stroke-width="4" points="127.930485 104.89405 104 89.3330609 128 73.8940503"></polyline>
+            <polyline id="Fill-19" fill="#5E61C8" points="115 117.89405 96.2848665 102.911574 89.1378173 113.741013 81.5713815 102.89405 62 117.89405"></polyline>
+            <polyline id="Stroke-20" stroke="#C4CEF6" stroke-width="4" points="115 117.89405 96.2848665 102.911574 89.1378173 113.741013 81.5713815 102.89405 62 117.89405"></polyline>
+            <line x1="89" y1="113.89405" x2="89" y2="146.89405" id="Stroke-21" stroke="#C4CEF6" stroke-width="4"></line>
+            <polyline id="Fill-22" fill="#5E61C8" points="115 59.8940503 96.2848665 74.8940503 89.1378173 64.0470877 81.5713815 74.8940503 62 59.8940503"></polyline>
+            <polyline id="Stroke-23" stroke="#C4CEF6" stroke-width="4" points="115 59.8940503 96.2848665 74.8940503 89.1378173 64.0470877 81.5713815 74.8940503 62 59.8940503"></polyline>
+            <line x1="89" y1="64.8940503" x2="89" y2="32.8940503" id="Stroke-24" stroke="#C4CEF6" stroke-width="4"></line>
+            <line x1="59" y1="88.8940503" x2="14" y2="88.8940503" id="Stroke-25" stroke="#C4CEF6" stroke-width="4"></line>
+            <line x1="117" y1="88.8940503" x2="164" y2="88.8940503" id="Stroke-26" stroke="#C4CEF6" stroke-width="4"></line>
+        </g>
+    </g>
+</svg>
