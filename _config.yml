@@ -1,12 +1,22 @@
-title: Name of project
-subtitle: Subtitle of project
+title: Microsite template
+subtitle: Explore data for and about $subject in Aotearoa
 description: Description of project for metadata in search and other sites.
-analytics: true
+analytics: false
 # analytics is a boolean value that determinees whether the woopra file is enabled.
 
 # collections are groups of pages/posts that can be displayed in blocks on the homepage and the sidebar menu.
 collections:
-  topics:
+  topics-people:
+    output: true
+  topics-wellbeing:
+    output: true
+  topics-health:
+    output: true
+  topics-education:
+    output: true
+  topics-biz:
+    output: true
+  topics-countries:
     output: true
 
 markdown: kramdown
