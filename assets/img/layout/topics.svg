@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>topics</title>
+    <g id="topics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(21.000000, 21.140361)">
+            <path d="M88.9998259,-0.140361376 C39.8793372,-0.140361376 0,39.739498 0,88.8598127 C0,137.980301 39.8793372,177.859639 88.9998259,177.859639 C138.120141,177.859639 178,137.980301 178,88.8598127 C178,39.739498 138.120141,-0.140361376 88.9998259,-0.140361376 Z" id="Fill-1" fill="#5B1E6A"></path>
+            <path d="M88.9998259,-0.140361376 C39.8793372,-0.140361376 0,39.739498 0,88.8598127 C0,137.980301 39.8793372,177.859639 88.9998259,177.859639 C138.120141,177.859639 178,137.980301 178,88.8598127 C178,39.739498 138.120141,-0.140361376 88.9998259,-0.140361376 Z" id="Stroke-2" stroke="#E1B8E9" stroke-width="4"></path>
+            <polyline id="Fill-3" fill="#5B1E6A" points="59 103.859639 89.4913475 72.8596386 120 103.859639"></polyline>
+            <polyline id="Stroke-4" stroke="#E1B8E9" stroke-width="4" points="59 103.859639 89.4913475 72.8596386 120 103.859639"></polyline>
+            <polyline id="Fill-5" fill="#5B1E6A" points="59 141.859639 89.4913475 110.859639 120 141.859639"></polyline>
+            <polyline id="Stroke-6" stroke="#E1B8E9" stroke-width="4" points="59 141.859639 89.4913475 110.859639 120 141.859639"></polyline>
+            <polyline id="Fill-7" fill="#5B1E6A" points="59 66.8596386 89.4913475 35.8596386 120 66.8596386"></polyline>
+            <polyline id="Stroke-8" stroke="#E1B8E9" stroke-width="4" points="59 66.8596386 89.4913475 35.8596386 120 66.8596386"></polyline>
+        </g>
+    </g>
+</svg>

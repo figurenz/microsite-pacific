@@ -172,6 +172,9 @@ main {
   p {
     max-width: 70ch;
   }
+  #home {
+    margin-top: -5px;
+  }
 }
 
 /* = = = = = = = = = = Header Styles = = = = = = = = = = */
@@ -235,11 +238,12 @@ main {
 /* = = = = = = = = = = warning banner = = = = = = = = = = */
 @import "parts/banner";
 
-/* = = = = = = = = = = FYP media queries = = = = = = = = = = */
-/* = = = = = = = = = = TODO: Consolidate into other media, middle categories broken = = = = = = = = = = */
-@import "fypmedia";
 
 /* = = = = = = = = = = home jumbo section. note: in-page is mostly 2-col = = = = = = = = = = */
 @import "parts/home-jumbo";
+
+/* = = = = = = = = = = FYP media queries = = = = = = = = = = */
+/* = = = = = = = = = = TODO: Consolidate into other media, middle categories broken = = = = = = = = = = */
+@import "fypmedia";
 
 

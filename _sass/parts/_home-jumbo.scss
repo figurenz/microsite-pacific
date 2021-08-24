@@ -1,6 +1,9 @@
 .home-section {
   background: $blurple;
   padding: 4rem 0 1rem;
+  background-image: url(../../assets/img/layout/testbg.svg);
+  background-size: cover;
+  // background-repeat: repeat;
 
   h1 {
     color: $white;
@@ -14,13 +17,16 @@
   }
   .header-badge {
     margin-left: -10px;
+    max-width: 133px;
   }
   .content {
     .pr-logo {
+      min-width: 100px;
       max-width: 300px;
     }
     .header-logo {
       margin-top: 2em;
+      margin-bottom: 5vh;
       p {
         color:  $white; 
         margin: 0;   
@@ -45,6 +51,6 @@
   max-height: 50vh;
 }
 
-#home {
-  margin-top: -50px;
-}
+// #home {
+//   margin-top: -50px;
+// }
