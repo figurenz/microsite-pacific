@@ -48,5 +48,6 @@ the analytics flag in config.yaml will need to be set to true, and the woopra.ht
 
 Config.yaml lists the groups of topics (collections) that will be enumerated on the homepage when the grid-topic-cards section is used. You'll need to update the list in config.yaml AND update the grid-topic-cards.html include file to ensure they're added.
 
-Individual topic pages have a 'data' attribute. This is used to select the appropriate file name from the image folder for the card display. Ensure you have a matching .jpg file in the image list folder to match the data attribute for every topic. These are case sensitive.
+If you opt to use the topic grouping folder structure, you'll need to update the grid-topic-cards.html file with the correct group names and the correct folder names.
 
+Individual topic pages have a 'data' attribute. This is used to select the appropriate file name from the image folder for the card display. Ensure you have a matching .jpg file in the image list folder to match the data attribute for every topic. These are case sensitive.
