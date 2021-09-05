@@ -148,6 +148,12 @@
   .wrapper.text {
     width: 960px;
   }
+  .wrapper.viz.text {
+    width: 80vw;
+    max-width: 80%;
+    margin: 0 auto;
+    position: relative;
+  }
   .two-col-container {
     .two-col-card.text {
       h1 {

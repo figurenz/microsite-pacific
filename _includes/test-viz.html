@@ -1,0 +1,16 @@
+<div id="observablehq-viewof-locType-93c5c087"></div>
+<div id="observablehq-viewof-location-93c5c087"></div>
+<div id="observablehq-chart-93c5c087"></div>
+<!-- <p>Credit: <a href="https://observablehq.com/d/0d0bffba30004e4a">Types of jobs worked by Pacific People in NZ by Nat Dudley</a></p> -->
+
+
+<script type="module">
+  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+  import define from "https://api.observablehq.com/d/0d0bffba30004e4a.js?v=3";
+  new Runtime().module(define, name => {
+    if (name === "viewof locType") return new Inspector(document.querySelector("#observablehq-viewof-locType-93c5c087"));
+    if (name === "viewof location") return new Inspector(document.querySelector("#observablehq-viewof-location-93c5c087"));
+    if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-93c5c087"));
+    return ["data","color"].includes(name);
+  });
+  </script>
