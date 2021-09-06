@@ -146,16 +146,6 @@ pre {
   position: relative;
 }
 
-.wrapper.viz {
-  width: 95vw;
-  max-width: 95%;
-  margin: 0 auto;
-  position: relative;
-  p {
-    margin-left: 0;
-  }
-}
-
 ::-moz-selection {
   background: $dark-slate;
   color: $white;
