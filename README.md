@@ -36,3 +36,36 @@ The top of the SCSS file has variables for colour, font, and background tile use
 
 the 'Content' template is nested into the 'Homepage' one.
 
+## Cname
+
+the CNAME file will need to be uncommented and updated with correct URL
+
+## Analytics
+
+the analytics flag in config.yaml will need to be set to true, and the woopra.html file in the _includes folder will need to be updated with correct domain
+
+## Topics
+
+Config.yaml lists the groups of topics (collections) that will be enumerated on the homepage when the grid-topic-cards section is used. You'll need to update the list in config.yaml AND update the grid-topic-cards.html include file to ensure they're added.
+
+If you opt to use the topic grouping folder structure, you'll need to update the grid-topic-cards.html file with the correct group names and the correct folder names.
+
+Individual topic pages have a 'data' attribute. This is used to select the appropriate file name from the image folder for the card display. Ensure you have a matching .jpg file in the image list folder to match the data attribute for every topic. These are case sensitive.
+
+
+## Viz
+
+There is a page template for data visualistions embedded using the JavaScript module from Observable, viz.html. To use this template:
+1. Create a file in the includes folder with the name of your viz, e.g. test-viz.html. Past the embed code from observable in here.
+2. Create a .md file in the root folder. Add the front matter as follows. The 'data' attribute selects a header pic. The viz attribute links to the name of the viz in includes folder, i.e. 'test-viz'.
+
+```---
+layout: viz
+data: about
+viz: test-viz
+title:  Test Viz
+subtitle: test
+isHome: false
+---```
+
+3. In the .md file, add the viz using {% include {{page.viz}}.html %}. Add any other content like headings and metadata around it.
