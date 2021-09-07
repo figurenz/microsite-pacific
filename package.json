@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WikiNewZealand/learn.git"
+    "url": "git+https://github.com/WikiNewZealand/microsite-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WikiNewZealand/learn/issues"
+    "url": "https://github.com/WikiNewZealand/microsite-template/issues"
   },
-  "homepage": "https://github.com/WikiNewZealand/learn#readme"
+  "homepage": "https://github.com/WikiNewZealand/microsite-template"
 }
