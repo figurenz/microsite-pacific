@@ -154,6 +154,18 @@ pre {
   p {
     margin-left: 0;
   }
+
+  g {
+    ::-moz-selection {
+      background: chill($dark-pink);
+      color: $white;
+    }
+    
+    ::selection {
+      background: chill($dark-pink);
+      color: $white;
+    }
+  }
 }
 
 ::-moz-selection {
