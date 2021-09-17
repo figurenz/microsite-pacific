@@ -33,6 +33,9 @@
   &::hover {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
+  a {
+    text-decoration: none;
+  }
   .post-card-image {
     display: block;
     width: 100%;
@@ -71,6 +74,7 @@
       line-height: 1em;
       color: $post-card-header-colour;
       margin: 0 0 10px;
+      text-decoration: none;
       &:hover {
         opacity: .8;
       }
