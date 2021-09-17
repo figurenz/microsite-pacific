@@ -5,11 +5,10 @@
   Each card has links, also generated from the YAML of the topic file. In this example, they're set to an external URL, but could be changed to open a page on this site.
   The background colour can be either white or grey. The example is grey, but change to white-bg for white.
 -->
-
-<section class="gray-bg">
-  <div class="content wrapper">
+<a name="topics" aria-label="link to topics" aria-describedby="topics"></a>
+<section id="topics" class="gray-bg">
+    <div class="content wrapper">
       <h2 class="centered-heading">People and Demographics</h2>
-      <a name="topics"></a>
       <ul class="post-card-box clearfix">
           {% for topic in site.topics-people %}
               <li>
@@ -115,5 +114,4 @@
             </li>
             {% endfor %} 
         </ul>
-    </div>
 </section>
