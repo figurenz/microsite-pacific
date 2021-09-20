@@ -1,11 +1,11 @@
 $(function () {
   // Cache variables for increased performance on devices with slow CPUs.
   var flexContainer = $('div.flex-container')
+  var navButton = $('button.menu-icon')
   var sideNav = $('nav.main-nav')
   var searchBox = $('.search-box')
   var searchClose = $('.search-icon-close')
   var searchInput = $('#search-input')
-  var sideNavClose = $('span.menu-icon-close')
 
   // Menu Settings
   $('.menu-icon, .menu-icon-close').click(function (e) {
@@ -13,6 +13,7 @@ $(function () {
     e.stopPropagation()
     flexContainer.toggleClass('active') 
     sideNav.toggleClass('active')
+    this.setAttribute("aria-expanded", 'true')
   })
 
   $('.menu-icon, .menu-icon-close').keydown(function (e) {
@@ -21,6 +22,7 @@ $(function () {
       e.stopPropagation()
       flexContainer.toggleClass('active') 
       sideNav.toggleClass('active')
+      this.setAttribute("aria-expanded", 'true')
     }
   })
 
@@ -29,14 +31,16 @@ $(function () {
     if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
       flexContainer.removeClass('active') 
       sideNav.removeClass('active')
+      navButton[0].setAttribute("aria-expanded", 'false')
     }
   })
 
   // Press Enter key to close menu when focus is on close icon
-  $('span.menu-icon-close').keydown(function (e) {
+  $('.menu-icon-close').keydown(function (e) {
     if (e.key === 'Enter') {
         flexContainer.removeClass('active')
         sideNav.removeClass('active')
+        navButton[0].setAttribute("aria-expanded", 'false')
     }
   })
 
@@ -46,6 +50,7 @@ $(function () {
       if (flexContainer.hasClass('active')) {
         flexContainer.removeClass('active')
         sideNav.removeClass('active')
+        navButton[0].setAttribute("aria-expanded", 'false')
       } else if (searchBox.hasClass('search-active')) {
         searchBox.removeClass('search-active')
       }
