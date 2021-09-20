@@ -8,21 +8,47 @@ $(function () {
   var searchInput = $('#search-input')
 
   // Menu Settings
+  
   $('.menu-icon, .menu-icon-close').click(function (e) {
     e.preventDefault()
     e.stopPropagation()
     flexContainer.toggleClass('active') 
     sideNav.toggleClass('active')
     this.setAttribute("aria-expanded", 'true')
+    // if class toggle is active, focus on close button. Otherwise, focus on menu button.
+    if (sideNav[0].classList[1] === 'active') {
+      setTimeout(function(){
+        document.getElementById("menu-close-button").focus()
+      }, 200)
+    } else {
+      setTimeout(function(){
+        document.getElementById("home-menu-button").focus()
+      }, 200)
+    }
   })
 
   $('.menu-icon, .menu-icon-close').keydown(function (e) {
-    if(e.key === 'Enter') {
+    // if space, focus moves to first list item in menu
+    if (e.key === " ") {
       e.preventDefault()
       e.stopPropagation()
       flexContainer.toggleClass('active') 
       sideNav.toggleClass('active')
       this.setAttribute("aria-expanded", 'true')
+      setTimeout(function(){
+        document.getElementById("menu-first").focus()
+      }, 200)
+    }
+    // if enter, focus moves to close button in menu.
+    else if(e.key === 'Enter') {
+      e.preventDefault()
+      e.stopPropagation()
+      flexContainer.toggleClass('active') 
+      sideNav.toggleClass('active')
+      this.setAttribute("aria-expanded", 'true')
+      setTimeout(function(){
+        document.getElementById("menu-close-button").focus()
+      }, 200)
     }
   })
 
@@ -32,6 +58,9 @@ $(function () {
       flexContainer.removeClass('active') 
       sideNav.removeClass('active')
       navButton[0].setAttribute("aria-expanded", 'false')
+      setTimeout(function(){
+        document.getElementById("home-menu-button").focus()
+      }, 200)
     }
   })
 
@@ -41,6 +70,9 @@ $(function () {
         flexContainer.removeClass('active')
         sideNav.removeClass('active')
         navButton[0].setAttribute("aria-expanded", 'false')
+        setTimeout(function(){
+          document.getElementById("home-menu-button").focus()
+        }, 200)
     }
   })
 
@@ -51,6 +83,9 @@ $(function () {
         flexContainer.removeClass('active')
         sideNav.removeClass('active')
         navButton[0].setAttribute("aria-expanded", 'false')
+        setTimeout(function(){
+          document.getElementById("home-menu-button").focus()
+        }, 200)
       } else if (searchBox.hasClass('search-active')) {
         searchBox.removeClass('search-active')
       }
