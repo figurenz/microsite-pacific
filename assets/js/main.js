@@ -1,11 +1,11 @@
 $(function () {
   // Cache variables for increased performance on devices with slow CPUs.
-  var flexContainer = $('div.flex-container')
-  var navButton = $('button.menu-icon')
-  var sideNav = $('nav.main-nav')
-  var searchBox = $('.search-box')
-  var searchClose = $('.search-icon-close')
-  var searchInput = $('#search-input')
+  const flexContainer = $('div.flex-container')
+  const navButton = $('button.menu-icon')
+  const sideNav = $('nav.main-nav')
+  const searchBox = $('.search-box')
+  const searchClose = $('.search-icon-close')
+  const searchInput = $('#search-input')
 
   // Menu Settings
   
