@@ -12,4 +12,5 @@ isHome: true
 {% include 2-col-section.html %}
 {% include text-section.html %}
 {% include cards-section.html %}
+{% include 2-col-callout.html %}
 {% include grid-topic-cards.html %}

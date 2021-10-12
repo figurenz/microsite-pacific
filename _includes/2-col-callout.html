@@ -1,0 +1,18 @@
+<!--This adds a two column section to the page, suitable for things like a photograph or illustration with text 
+    Background colour can be either white or gray. The example is white, but change to gray-bg for gray.
+    Image is on right hand side by default. To swap to left hand side, add a 'reverse' class to the 'two-col-container' div
+-->
+<section class="gray-bg">
+  <div class="content text wrapper">
+    <div class="two-col-container reverse">
+      <div class="two-col-card text">
+        <h2>Dig into jobs worked by Pacific people in Aotearoa</h2>
+        <p>Our work is an important factor in our happiness and stability. Dig into the types of jobs worked by Pacific people in different areas of NZ, and their incomes.</p>
+        <a href="{{site.baseurl}}{% link jobs.md %}" class="close-button">Explore Pacific jobs</a>
+       </div> 
+      <div class="two-col-card">
+      <img alt="Close up of a sunburst data visualisation of different jobs" src="{{site.baseurl}}/assets/img/layout/jobs.png">
+    </div>
+    </div>
+  </div>
+</section>

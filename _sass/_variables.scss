@@ -42,6 +42,10 @@ $button-colour: $blurple;
   @return lighten($color, 50%)
 }
 
+@function highlight($color) {
+  @return saturate(lighten($color, 10%), 100)
+}
+
 $h1-font-size: 4em;
 $h2-font-size: 3em;
 $h3-font-size: 2em;
