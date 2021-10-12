@@ -8,15 +8,21 @@
   color: $white;
   font-family: $h3-font-family;
   text-decoration: none;
+  text-align: center;
 
   &:not([disabled]):hover {
     border-color: $button-colour;
-    background: intensify($button-colour);
+    background: highlight($button-colour);
     text-decoration: none;
+    color: $white;
   }
 
   &:focus {
     outline: none;
     box-shadow: 0 0 0 5px rgba(21, 156, 228, 0.4);
+  }
+
+  &:visited {
+    color: $white;
   }
 }
