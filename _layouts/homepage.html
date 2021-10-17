@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
     <meta property="og:site_name" content="{{site.title | xml_escape}}">
-    <meta property="og:title" content="{{site.title | xml_escape}}">
+    <meta prfontoperty="og:title" content="{{site.title | xml_escape}}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{site.url | append: page.url | xml_escape}}">
     <meta name="og:description" content="{{site.subtitle | xml_escape}}">
@@ -36,8 +36,10 @@
                     {% include navigation.html %}
                     <p class="logo"><a href="{{site.baseurl}}/">{{site.title}}</a></p>
                     <!-- remove hidden class from search icon container if you want search -->
-                <div class="search-icon-container hidden">
-                    <span class="search-icon" data-event="search-open-click"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
+                <div class="search-icon-container">
+                    <!-- <span class="topics-icon"> -->
+                        <a class="close-button topic-jump" href="{{site.baseurl}}/#topics"><i class="fa fa-chart-bar topic-icon" aria-hidden="true"></i>See data</a>
+                    <!-- </span> -->
                 </div>
                 </div>
             </div>
