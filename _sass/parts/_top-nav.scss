@@ -13,11 +13,16 @@
     }
   }
 
-  .search-icon{
+  .search-icon {
     a {
       color: $menu-header-colour;
     }
   }
+  
+  .topic-icon {
+      padding-right: .5em;
+  }
+  
   
 nav  .main- {
     height: inherit !important;
