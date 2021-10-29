@@ -31,7 +31,7 @@
             <div class="wrapper">
                 <div class="header-flex">
                     <div class="menu-icon-container">
-                        <span tabindex="0" class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+                        <button id="home-menu-button" class="menu-icon" aria-label="Main menu" aria-expanded="false"><i class="fa fa-bars" aria-hidden="true"></i></button>
                     </div>
                     {% include navigation.html %}
                     <p class="logo"><a href="{{site.baseurl}}/">{{site.title}}</a></p>
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </section>
-            <div class="svg-stripe">  
+            <div aria-hidden="true" class="svg-stripe">  
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="svg-stripe hp-topics-svg-top" focusable="false">
                     <polygon fill="#fbf280" points="0,85 100,1 100,6 0,90"></polygon>
                     <polygon fill="#4db7c6" points="0,90 100,6 100,11 0,95"></polygon>

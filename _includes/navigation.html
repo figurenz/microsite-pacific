@@ -1,7 +1,7 @@
-<nav class="main-nav">
-    <span tabindex="0" class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
-    <ul>
-        <li><a href="{{site.baseurl}}{% link index.md %}">Home</a></li>
+<nav class="main-nav" aria-label="Main menu">
+    <button aria-label="Close menu" class="menu-icon-close" id="menu-close-button"><i class="fa fa-times" aria-hidden="true"></i></button>
+    <ul aria-label="Main menu items">
+        <li><a id="menu-first" href="{{site.baseurl}}{% link index.md %}">Home</a></li>
         <li><a href="{{site.baseurl}}{% link about.md %}">About</a></li>
         <li><a href="{{site.baseurl}}{% link reports.md %}">Reports</a></li>
         <li><a href="{{site.baseurl}}{% link experts.md %}">Find Experts</a></li>

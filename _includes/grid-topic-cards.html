@@ -5,97 +5,114 @@
   Each card has links, also generated from the YAML of the topic file. In this example, they're set to an external URL, but could be changed to open a page on this site.
   The background colour can be either white or grey. The example is grey, but change to white-bg for white.
 -->
-
-<section class="white-bg">
-  <div class="content wrapper">
+<a name="topics" aria-label="link to topics" aria-describedby="topics"></a>
+<section id="topics" class="white-bg">
+    <div class="content wrapper">
       <h2 class="centered-heading">People and Demographics</h2>
-      <a name="topics"></a>
-      <ol class="post-card-box clearfix">
+      <ul class="post-card-box clearfix">
           {% for topic in site.topics-people %}
               <li>
                   <div class="post-card">
-                      <a tabindex="-1" href="{{ topic.link }}" class="post-card-image" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )"></a>
-                      <div class="post-card-body">
-                          <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
+                      <a href="{{ topic.link }}">
+                      <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )">
                       </div>
+                      <div class="post-card-body">
+                        <h3 class="post-card-title">{{ topic.title }}</h3>
+                      </div>
+                    </a>
                   </div>
               </li>
           {% endfor %} 
-      </ol>
+      </ul>
   </div>
   <div class="content wrapper">
     <h2 class="centered-heading">Wellbeing</h2>
-    <ol class="post-card-box clearfix">
+    <ul class="post-card-box clearfix">
         {% for topic in site.topics-wellbeing %}
-            <li>
-                <div class="post-card">
-                    <a tabindex="-1" href="{{ topic.link }}" class="post-card-image" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )"></a>
-                    <div class="post-card-body">
-                        <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
-                    </div>
+        <li>
+            <div class="post-card">
+                <a href="{{ topic.link }}">
+                <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )">
                 </div>
-            </li>
+                <div class="post-card-body">
+                  <h3 class="post-card-title">{{ topic.title }}</h3>
+                </div>
+              </a>
+            </div>
+        </li>
         {% endfor %} 
-    </ol>
+    </ul>
     </div>
     <div class="content wrapper">
         <h2 class="centered-heading">Health and Disability</h2>
-        <ol class="post-card-box clearfix">
+        <ul class="post-card-box clearfix">
             {% for topic in site.topics-health %}
-                <li>
-                    <div class="post-card">
-                        <a tabindex="-1" href="{{ topic.link }}" class="post-card-image" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )"></a>
-                        <div class="post-card-body">
-                            <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
-                        </div>
+            <li>
+                <div class="post-card">
+                    <a href="{{ topic.link }}">
+                    <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )">
                     </div>
-                </li>
+                    <div class="post-card-body">
+                      <h3 class="post-card-title">{{ topic.title }}</h3>
+                    </div>
+                  </a>
+                </div>
+            </li>
             {% endfor %} 
-        </ol>
+        </ul>
     </div>
     <div class="content wrapper">
         <h2 class="centered-heading">Education</h2>
-        <ol class="post-card-box clearfix">
+        <ul class="post-card-box clearfix">
             {% for topic in site.topics-education %}
-                <li>
-                    <div class="post-card">
-                        <a tabindex="-1" href="{{ topic.link }}" class="post-card-image" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )"></a>
-                        <div class="post-card-body">
-                            <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
-                        </div>
+            <li>
+                <div class="post-card">
+                    <a href="{{ topic.link }}">
+                    <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )">
                     </div>
-                </li>
+                    <div class="post-card-body">
+                      <h3 class="post-card-title">{{ topic.title }}</h3>
+                    </div>
+                  </a>
+                </div>
+            </li>
             {% endfor %} 
-        </ol>
+        </ul>
     </div>
     <div class="content wrapper">
         <h2 class="centered-heading">Economy, employment, and business</h2>
-        <ol class="post-card-box clearfix">
+        <ul class="post-card-box clearfix">
             {% for topic in site.topics-biz %}
-                <li>
-                    <div class="post-card">
-                        <a tabindex="-1" href="{{ topic.link }}" class="post-card-image" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )"></a>
-                        <div class="post-card-body">
-                            <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
-                        </div>
+            <li>
+                <div class="post-card">
+                    <a href="{{ topic.link }}">
+                    <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/list/{{ topic.data }}.jpg' )">
                     </div>
-                </li>
+                    <div class="post-card-body">
+                      <h3 class="post-card-title">{{ topic.title }}</h3>
+                    </div>
+                  </a>
+                </div>
+            </li>
             {% endfor %} 
-        </ol>
+        </ul>
     </div>
     <div class="content wrapper">
         <h2 class="centered-heading">Pacific Countries</h2>
-        <ol class="post-card-box clearfix">
+        <ul class="post-card-box clearfix">
             {% for topic in site.topics-countries %}
-                <li>
-                    <div class="post-card">
-                        <a tabindex="-1" href="{{ topic.link }}" class="post-card-image"  aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/flags/{{ topic.data }}.svg' )"></a>
-                        <div class="post-card-body">
-                            <a href="{{ topic.link }}" class="post-card-link"><h3 class="post-card-title">{{ topic.title }}</h3></a>
-                        </div>
+            <li>
+                <div class="post-card">
+                    <a href="{{ topic.link }}">
+                    <div class="post-card-image" role="img" aria-label="{{topic.title}}" style="background-image: url( '{{site.baseurl}}/assets/img/flags/{{ topic.data }}.svg' )">
                     </div>
-                </li>
+                    <div class="post-card-body">
+                      <h3 class="post-card-title">{{ topic.title }}</h3>
+                    </div>
+                  </a>
+                </div>
+            </li>
             {% endfor %} 
-        </ol>
-    </div>
+        </ul>
+    </div>    
 </section>
