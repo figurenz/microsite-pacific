@@ -3,12 +3,12 @@
   .main-header {
     .logo {
       a {
-        font-size: 1em;
+        font-size: .75em;
       }
     }
     .close-button {
         padding: .5em;
-        font-size: .75em;
+        font-size: .9em;
     }
   }
 
@@ -157,6 +157,16 @@
   }
 }
 
+}
+
+@media only screen and (max-width: 320px) {
+  .main-header {
+    .logo {
+    }
+    .close-button {
+        font-size: .75em;
+    }
+  }
 }
 
 
