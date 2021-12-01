@@ -33,7 +33,7 @@ The Pacific Data Sovereignty Network is a group of Pacific experts advocating im
 
 [Moana Research](https://www.moanaresearch.co.nz/)
 
-Moana research is a Pacific owned and led consultancy agency group of passionate researchers and clinicians focused on evidence-based solutions through research so that families have access to essential services and resources. Our purpose is to help families and communities thrive and through our work that they are better engaged in leading their own wellness journeys. 
+Moana Research is a Pacific owned and led consultancy agency group of passionate researchers and clinicians focused on evidence-based solutions through research so that families have access to essential services and resources. Our purpose is to help families and communities thrive and through our work that they are better engaged in leading their own wellness journeys. 
 
 [Pacific Perspectives](https://www.pacificperspectives.co.nz/)
 
