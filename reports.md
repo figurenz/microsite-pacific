@@ -83,7 +83,7 @@ Scoping document for Pasifika-led research as part of the National Science Chall
 
 ## Pacific Aid
 
-[New Zealand Support to Pacific Countries](mfat.govt.nz/en/aid-and-development/our-aid-partnerships-in-the-pacific/)
+[New Zealand Support to Pacific Countries](https://mfat.govt.nz/en/aid-and-development/our-aid-partnerships-in-the-pacific/)
 MFAT
 
 ## Pacific People in Auckland
