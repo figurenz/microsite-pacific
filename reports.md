@@ -64,6 +64,10 @@ The Ola Manuia plan sets out priority outcomes and accompanying actions for the 
 Ministry of Health
 A range of reports on Pacific health outcomes in Aotearoa including Pacific Provider funding, children's health, and more.
 
+[Gout insights – Impact on Māori](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/gout-insights-impact-on-maori/)
+Pharmac 2021
+Analysis and data on health inequities for Māori in access to funded gout medication.
+
 ## Pacific Education
 
 [Action Plan for Pacific Education 2020-2030](https://www.education.govt.nz/our-work/overall-strategies-and-policies/action-plan-for-pacific-education-2020-2030/)
