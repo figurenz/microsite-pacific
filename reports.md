@@ -76,8 +76,8 @@ Ministry of Health
 
 A range of reports on Pacific health outcomes in Aotearoa including Pacific Provider funding, children's health, and more.
 
-[Gout insights – Impact on Māori](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/pacific-peoples-health-gout-data-insights/)
-Pharmac 2021
+[Pacific peoples health – Gout data insights](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/pacific-peoples-health-gout-data-insights/)
+Pharmac 2022
 
 Analysis and data on health inequities for Māori in access to funded gout medication.
 
