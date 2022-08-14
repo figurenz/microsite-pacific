@@ -79,7 +79,7 @@ A range of reports on Pacific health outcomes in Aotearoa including Pacific Prov
 [Pacific peoples health – Gout data insights](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/pacific-peoples-health-gout-data-insights/)
 Pharmac 2022
 
-Analysis and data on health inequities for Māori in access to funded gout medication.
+Analysis and data on health inequities for Pacific peoples in access to funded gout medication.
 
 ## Pacific Education
 
