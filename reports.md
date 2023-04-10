@@ -45,6 +45,15 @@ Ministry of Social Development and Pasefika Proud, 2016
 
 A report breaking down the demographics of Pacific Peoples in Aotearoa.
 
+[Tamaiti o le Moana 2033](https://pacchildconf.co.nz)
+Moana Connect, 2023
+
+Tamaiti o le Moana 2033 is a [report](https://pacchildconf.co.nz/wp-content/uploads/2023/03/Tamaiti-Ole-Moana-Pacific-Children-March23.pdf) that looks at the strengths and needs of Pacific peoples within the context of Pacific child wellbeing.
+ 
+1 in 4 Pacific children continue to live in poverty. In a year of budget reprioritisations, we ask that all leaders – government, corporate, community – prioritise children in their investments. This includes ensuring adequate Housing and Income, two significant determinants of Pacific child health that can only be addressed collectively.
+ 
+This report provides practical actions that will make a dramatic difference. It highlights progress in some areas but let’s set our sights to practical targets that will improve the lives of all Pacific children and lead to benefits for all of Aotearoa.
+
 ## Pacific Economy
 
 [The New Zealand Pacific Economy](https://www.treasury.govt.nz/sites/default/files/2018-11/nz-pacific-economy-nov18.pdf)
