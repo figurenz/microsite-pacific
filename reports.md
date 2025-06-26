@@ -70,14 +70,14 @@ Strategy for how MBIE can support Pacific economic development in NZ.
 
 ## Pacific Business
 
-[Pacific Women and Men in Business Report](https://www.mpp.govt.nz/publications/reports/)
+[Pacific Women and Men in Business Report](https://www.mpp.govt.nz/assets/Reports/Pacific-Women-and-Men-in-Business.pdf)
 Ministry for Pacific Peoples, 2021
 
 This report provides data about the businesses owned in full, or in part, by Pacific people aged 20 to 65. It is the first report to analyse Pacific-owned businesses in New Zealand and provides a good baseline to measure against as we recover from the effects of COVID-19. The report also includes success stories of Pacific women in business as well as perspectives on Pacific people in business in Aotearoa New Zealand by the Pacific Business Trust. 
 
 ## Pacific Health
 
-[Ola Manuia: Pacific Health and Wellbeing Action Plan 2020–2025](https://www.health.govt.nz/publication/ola-manuia-pacific-health-and-wellbeing-action-plan-2020-2025)
+[Ola Manuia: Pacific Health and Wellbeing Action Plan 2020–2025](https://www.health.govt.nz/publications/ola-manuia-pacific-health-and-wellbeing-action-plan-2020-2025)
 Ministry of Health, 2020
 
 The Ola Manuia plan sets out priority outcomes and accompanying actions for the next five years to improve the health and wellbeing of our vibrant and growing Pacific population living in Aotearoa New Zealand. The plan can be used as a tool for planning, prioritising actions, and developing new and innovative methods of delivering results to improve Pacific health.
