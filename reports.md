@@ -92,6 +92,9 @@ Pharmac 2022
 
 Analysis and data on health inequities for Pacific peoples in access to funded gout medication.
 
+[Achieving equity of Pacific mental health and wellbeing outcomes](https://www.leva.co.nz/resources/achieving-equity-of-pacific-mental-health-and-wellbeing-outcomes/)
+Le Va, 2024
+
 ## Pacific Education
 
 [Action Plan for Pacific Education 2020-2030](https://www.education.govt.nz/our-work/overall-strategies-and-policies/action-plan-for-pacific-education-2020-2030/)
