@@ -122,8 +122,8 @@ Auckland Council
 
 ## Pacific Region
 
-[APEC regional trends analysis](https://www.apec.org/Publications?Category=&Keyword=regional+trends&PublicationTitle=&PublicationNumber=&pubType=&ISBN=&KeyOnly=False&StartYear=&StartMonth=&EndYear=&EndMonth=)
-APEC
+[APEC regional trends analysis](https://www.apec.org/publications/2025/05/apec-regional-trends-analysis--may-2025)
+APEC, 2025
 
 [Pacific Data Hub](https://pacificdata.org/)
 Data for and about the Pacific region.
