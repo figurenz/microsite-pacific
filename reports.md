@@ -32,7 +32,7 @@ Ministry for Pacific Peoples, 2016
 
 The Contemporary Pacific Status Report offers a present-day snapshot of the Pacific peoples population in New Zealand. Information from various data sources, including the 2013 Census, are brought together into one easily accessible document and highlights the current position of Pacific peoples in New Zealand.
 
-[Pacific Aotearoa Lalanga Fou Languages and High Tech Fono Report](https://www.mpp.govt.nz/publications/reports/)
+[Pacific Aotearoa Lalanga Fou Languages and High Tech Fono Report](https://www.mpp.govt.nz/assets/Reports/Pacific-Aotearoa-The-Lalanga-Fou-Languages-and-High-Tech-Fono-Report.pdf)
 Ministry for Pacific Peoples, 2020
 
 The Lalanga Fou Languages and High Tech Fono was held over two days (26-27 November 2019), and brought together key stakeholders in the areas of  technology and language to discuss opportunities in the technology and Pacific language spaces. In attendance were Pacific and non-Pacific scientists, technology and innovation business leaders and academics, language experts, community groups, government officials, and broader stakeholders.
@@ -47,10 +47,10 @@ Ministry of Social Development and Pasefika Proud, 2016
 
 A report breaking down the demographics of Pacific Peoples in Aotearoa.
 
-[Tamaiti o le Moana 2033](https://pacchildconf.co.nz)
+[Tamaiti o le Moana 2033](https://web.archive.org/web/20230328170133/https://pacchildconf.co.nz/wp-content/uploads/2023/03/Tamaiti-Ole-Moana-Pacific-Children-March23.pdf)
 Moana Connect, 2023
 
-Tamaiti o le Moana 2033 is a [report](https://pacchildconf.co.nz/wp-content/uploads/2023/03/Tamaiti-Ole-Moana-Pacific-Children-March23.pdf) that looks at the strengths and needs of Pacific peoples within the context of Pacific child wellbeing.
+Tamaiti o le Moana 2033 is a report that looks at the strengths and needs of Pacific peoples within the context of Pacific child wellbeing.
  
 1 in 4 Pacific children continue to live in poverty. In a year of budget reprioritisations, we ask that all leaders – government, corporate, community – prioritise children in their investments. This includes ensuring adequate Housing and Income, two significant determinants of Pacific child health that can only be addressed collectively.
  
