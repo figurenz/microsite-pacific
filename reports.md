@@ -27,7 +27,7 @@ Human Rights Commission, 2020
 
 The purpose of this Talanoa paper is to provide a foundation piece about human rights of Pacific peoples in Aotearoa New Zealand. It identifies how human rights fits within the unique context of Pacific peoples, and how they provide a baseline understanding of the issues that require greater attention and collaboration. 
 
-[Contemporary Pacific Status Report](https://www.mpp.govt.nz/publications/reports/)
+[Contemporary Pacific Status Report](https://www.mpp.govt.nz/assets/Reports/Contemporary-Pacific-Status-Report-2016.pdf)
 Ministry for Pacific Peoples, 2016
 
 The Contemporary Pacific Status Report offers a present-day snapshot of the Pacific peoples population in New Zealand. Information from various data sources, including the 2013 Census, are brought together into one easily accessible document and highlights the current position of Pacific peoples in New Zealand.
