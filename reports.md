@@ -9,6 +9,8 @@ isHome: false
 # {{ page.title }}
 
 ## Pacific Life in Aotearoa
+[Annual Report](https://www.mpp.govt.nz/assets/Corporate-Publications/MPP-annual-report-year-ending-30-June-2024.pdf)
+Ministry for Pacific Peoples, 2024
 
 [Census 2018 Pacific Data](https://www.stats.govt.nz/tools/2018-census-ethnic-group-summaries/pacific-peoples)
 Stats NZ, 2018
