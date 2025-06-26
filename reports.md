@@ -77,15 +77,12 @@ This report provides data about the businesses owned in full, or in part, by Pac
 
 ## Pacific Health
 
+[Tupu Ola Moui: Pacific Health Chart Book](https://www.health.govt.nz/publications/tupu-ola-moui-pacific-health-chart-book-2025-series)
+
 [Ola Manuia: Pacific Health and Wellbeing Action Plan 2020–2025](https://www.health.govt.nz/publications/ola-manuia-pacific-health-and-wellbeing-action-plan-2020-2025)
 Ministry of Health, 2020
 
 The Ola Manuia plan sets out priority outcomes and accompanying actions for the next five years to improve the health and wellbeing of our vibrant and growing Pacific population living in Aotearoa New Zealand. The plan can be used as a tool for planning, prioritising actions, and developing new and innovative methods of delivering results to improve Pacific health.
-
-[Pacific Health Resources](https://www.health.govt.nz/our-work/populations/pacific-health/pacific-health-resources)
-Ministry of Health
-
-A range of reports on Pacific health outcomes in Aotearoa including Pacific Provider funding, children's health, and more.
 
 [Pacific peoples health – Gout data insights](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/pacific-peoples-health-gout-data-insights/)
 Pharmac 2022
