@@ -118,7 +118,7 @@ MFAT (removed in 2023)
 ## Pacific People in Auckland
 
 [Pacific Auckland](https://www.aucklandcouncil.govt.nz/plans-projects-policies-reports-bylaws/our-plans-strategies/auckland-plan/about-the-auckland-plan/Pages/pacific-auckland.aspx)
-Auckland Council
+Auckland Council, 2020
 
 ## Pacific Region
 
