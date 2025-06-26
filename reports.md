@@ -106,7 +106,7 @@ Ministry of Education
 
 ## Pacific Research
 
-[A Better Start - E Tipu E Rea](https://www.moanaresearch.co.nz/wp-content/uploads/2019/04/A-Better-Start_Pasifika-Scoping-Doc_FINAL.pdf)
+[A Better Start - E Tipu E Rea](https://web.archive.org/web/20200204130443/https://www.moanaresearch.co.nz/wp-content/uploads/2019/04/A-Better-Start_Pasifika-Scoping-Doc_FINAL.pdf)
 
 Scoping document for Pasifika-led research as part of the National Science Challenge.
 
