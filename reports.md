@@ -84,8 +84,8 @@ Ministry of Health, 2020
 
 The Ola Manuia plan sets out priority outcomes and accompanying actions for the next five years to improve the health and wellbeing of our vibrant and growing Pacific population living in Aotearoa New Zealand. The plan can be used as a tool for planning, prioritising actions, and developing new and innovative methods of delivering results to improve Pacific health.
 
-[Pacific peoples health – Gout data insights](https://pharmac.govt.nz/about/access-equity/medicine-access-equity-monitoring-and-outcomes-framework/pacific-peoples-health-gout-data-insights/)
-Pharmac 2022
+[Pacific peoples health – Gout data insights](https://pharmac.govt.nz/assets/2022-04-11-Pacific-Peoples-Health-Gout-Data-Insights.pdf)
+Pharmac, 2022
 
 Analysis and data on health inequities for Pacific peoples in access to funded gout medication.
 
@@ -94,8 +94,8 @@ Le Va, 2024
 
 ## Pacific Education
 
-[Action Plan for Pacific Education 2020-2030](https://www.education.govt.nz/our-work/overall-strategies-and-policies/action-plan-for-pacific-education-2020-2030/)
-Ministry of Education, 2020
+[Action Plan for Pacific Education 2020-2030](https://www.education.govt.nz/news/refresh-action-plan-pacific-education)
+Ministry of Education, 2023 update
 
 The Action Plan for Pacific Education 2020–2030 has a vision that diverse Pacific learners and their families feel safe, valued and equipped to achieve their education aspirations.
 
