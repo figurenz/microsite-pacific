@@ -17,7 +17,7 @@ Stats NZ, 2018
 
 Summary of demographic data for Pacific people in Aotearoa.
 
-[Pacific Aotearoa - Lalanga Fou Report](https://www.mpp.govt.nz/publications/reports/)
+[Pacific Aotearoa - Lalanga Fou Report](https://www.mpp.govt.nz/assets/Reports/Pacific-Aotearoa-Lalanga-Fou-Report.pdf)
 Ministry for Pacific Peoples, 2018
 
 The Pacific Aotearoa Lalanga Fou report is the start of a conversation to better understand Pacific people’s contribution to Aotearoa's economy, and how we define success, prosperity and well-being. It lays a strong foundation that we can build upon for generations to come.
